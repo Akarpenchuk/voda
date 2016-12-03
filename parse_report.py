@@ -36,7 +36,7 @@ def get_report():	# логинимся как КА блеа... хедерами 
 	r = requests.post(BASE_URL, headers = local_headers, data = data_r)  #борода которая логинится и получает все записи в репорте, ваще все во влкадке олл
 	return str(r.content)
 
-def parse(html):
+def parse(html):	# парсим обьект(текст бинанар хтмл), пихаем этот хлам в словарь
 	soup = BeautifulSoup(html)
 	table = soup.find('table', class_= 'powerSupplyTable')
 	table_powerSupplyTableOddRow = table.find_all('tr', class_ = 'powerSupplyTableOddRow')
@@ -56,12 +56,12 @@ def parse(html):
 			'pr_ts' : str(cols[6].string),
 			'mc' : str(cols[7].string),
 			'akb' : str(cols[9].find('span').string),
-			'akb_color' : str(cols[9].find('span')),
+			'akb_color' : (str(cols[9].span.get('style'))).split(':')[-1],
 			'down' : str(cols[10].find('span').string),
-			# 'down_color' : str(cols[10].find(get('style'))),
+			'down_color' : (str(cols[10].span.get('style'))).split(':')[-1],
 			'up' : str(cols[11].string),
-			'up_color' : str(cols[10].find('span')),
-			'resposible' : str(cols[-6]),
+			'up_color' : (str(cols[10].span.get('style'))).split(':')[-1],
+			'resposible' : str(cols[-6].text),
 			'add_info' : str(cols[-2].string),
 			'updated' : str(cols[-1].string)
 		})
@@ -74,10 +74,12 @@ def parse(html):
 def save_csv(report_table, path):
 	with open(path, 'w') as csvfile:
 		writer = csv.writer(csvfile)
-		writer.writerow(('Дата', 'Сайт', 'MC', 'Акб', 'Падение', 'Поднятие', 'Дежурный'))
+		writer.writerow(('Дата', 'BSC', 'BCF', 'Сайт','приоритет_BS', 'MC', 'Акб', 'АКБ_колор', 'Падение', 'Падение_колор',\
+			'Поднятие', 'Поднятие_колор', 'Ответственные', 'add_info', 'Дежурный'))
 
 		for rows in report_table:
-			writer.writerow((rows['date'], rows['site'], rows['mc'], rows['akb'], rows['down'], rows['up'], rows['updated']))
+			writer.writerow((rows['date'], rows['bsc'], rows['bcf'], rows['site'], rows['pr_bs'], rows['mc'], rows['akb'], \
+				rows['akb_color'], rows['down'], rows['down_color'], rows['up'], rows['up_color'], rows['resposible'], rows['updated']))
 
 project = []
 report_f = get_report()

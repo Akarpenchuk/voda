@@ -2,8 +2,14 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 
-def files():
-	f = open()
+FAIL = 'bs_binar.txt'
+
+def files(path):
+	f = open(path, 'r')
+	x = f.read()
+	f.close()
+	return x
+
 def parse(html):
 	soup = BeautifulSoup(html)
 	table = soup.find('table', class_= 'powerSupplyTable')
@@ -24,13 +30,19 @@ def parse(html):
 			'pr_ts' : str(cols[6].string),
 			'mc' : str(cols[7].string),
 			'akb' : str(cols[9].find('span').string),
-			'akb_color' : str(cols[9].find('span')),
+			'akb_color' : (str(cols[9].span.get('style'))).split(':')[-1],
 			'down' : str(cols[10].find('span').string),
-			# 'down_color' : str(cols[10].find(get('style'))),
+			'down_color' : (str(cols[10].span.get('style'))).split(':')[-1],
 			'up' : str(cols[11].string),
-			'up_color' : str(cols[10].find('span')),
-			'resposible' : str(cols[-6]),
+			'up_color' : (str(cols[10].span.get('style'))).split(':')[-1],
+			'resposible' : str(cols[-6].text),
 			'add_info' : str(cols[-2].string),
 			'updated' : str(cols[-1].string)
 		})
 	return report_table
+
+tabl = parse(files(FAIL))
+for i in tabl:
+	print(i, '\n')
+
+# find('span')
