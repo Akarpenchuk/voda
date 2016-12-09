@@ -1,3 +1,5 @@
+##-*- coding: utf-8 -*-
+
 import csv
 import requests
 from bs4 import BeautifulSoup
@@ -10,8 +12,8 @@ def files(path):
 	f.close()
 	return x
 
-def parse(html):
-	soup = BeautifulSoup(html)
+def parse(html):	# парсим обьект(текст бинанар хтмл), пихаем этот хлам в словарь
+	soup = BeautifulSoup(html, 'html.parser')
 	table = soup.find('table', class_= 'powerSupplyTable')
 	table_powerSupplyTableOddRow = table.find_all('tr', class_ = 'powerSupplyTableOddRow')
 	table_powerSupplyTableEvenRow = table.find_all('tr', class_ = 'powerSupplyTableEvenRow')
@@ -35,14 +37,27 @@ def parse(html):
 			'down_color' : (str(cols[10].span.get('style'))).split(':')[-1],
 			'up' : str(cols[11].string),
 			'up_color' : (str(cols[10].span.get('style'))).split(':')[-1],
-			'resposible' : str(cols[-6].text),
-			'add_info' : str(cols[-2].string),
+			'resposible' : (cols[-6].text),
+			'add_info' : (cols[-2]).decode('utf-8'),
 			'updated' : str(cols[-1].string)
 		})
 	return report_table
+
+def save_csv(report_table, path):
+	with open(path, 'w') as csvfile:
+		writer = csv.writer(csvfile)
+		writer.writerow(('Date', 'BSC', 'BCF', 'Site','priority_BS', 'MC', 'AKB', 'AKB_color', 'DOWN', 'DOWN_color', 'UP', \
+			'UP_color', 'Resposible', 'add_info', 'CKU_duty'))
+
+		for rows in report_table:
+			writer.writerow((rows['date'], rows['bsc'], rows['bcf'], rows['site'], rows['pr_bs'], rows['mc'], rows['akb'], rows['akb_color'], \
+				rows['down'], rows['down_color'], rows['up'], rows['up_color'], rows['resposible'], rows['add_info'], rows['updated']))
 
 tabl = parse(files(FAIL))
 for i in tabl:
 	print(i, '\n')
 
-# find('span')
+# project = []
+# # report_f = 
+# project.extend(parse(files(FAIL)))
+# save_csv(project, 'report.csv')

@@ -1,0 +1,622 @@
+Дата,BSC,BCF,Сайт,приоритет_BS,MC,Акб,АКБ_колор,Падение,Падение_колор,Поднятие,Поднятие_колор,Ответственные,add_info,Дежурный
+ 08.12.2016 ,632,None,KIE ZHI YBL,4,ZHI,06:23,yellow,06:23,yellow,None,yellow,Gorbatyuk Sergey,None,onekryshevych
+ 08.12.2016 ,132,None,KIE ZHI VER,4,ZHI,06:22,yellow,06:22,yellow,None,yellow,Gorbatyuk Sergey,None,onekryshevych
+ 08.12.2016 ,128,None,LVI GNA DOK,5,LVI,04:56,yellow,04:56,yellow,None,yellow,Rybak Maryan,None,onekryshevych
+ 08.12.2016 ,369,525,DNE KOS OBI,5,ZAP,None,None,None,None,None,None,Velychko Oleksandr,None,kakovalchuk
+ 08.12.2016 ,253,None,ODE IVN MHP,4,ODE,02:49,yellow,02:49,yellow,None,yellow,Myronov Denys,None,kakovalchuk
+ 08.12.2016 ,871,365,KIE KIE TVE,5,KIE,None,None,None,None,None,None,Mitko Sergii,210U,onekryshevych
+ 08.12.2016 ,293,None,ODE FAR LEN,4,IZM,None,None,None,None,None,None,Nekrylov Sergey,нет в аис,kakovalchuk
+ 08.12.2016 ,None,None,ODE ODE VOR,5,ODE,00:29,yellow,00:29,yellow,None,yellow,Myronov Denys,None,kakovalchuk
+ 07.12.2016 ,128,None,LVI MUK CHE,2,UZH,23:07,yellow,23:07,yellow,None,yellow,Karabin Yurij,None,onekryshevych
+ 07.12.2016 ,978,"295,300",LVI CHR VOR,2,CHR,22:48,yellow,22:48,yellow,None,yellow,Kalenchuk Dmytro,None,onekryshevych
+ 07.12.2016 ,128,None,LVI SNK TOW,4,LVI,None,None,None,None,None,None,Rybak Maryan,+MUX (v 05:41),onekryshevych
+ 07.12.2016 ,2017,None,DON NKS CNT,4,MAR,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dmitriev Vladimir, Reshetnik Sergey",None,ntriska
+ 07.12.2016 ,422,None,KIE CHK KRI,3,CHK,21:48,yellow,21:48,yellow,None,yellow,Prasol Aleksey,None,onekryshevych
+ 07.12.2016 ,360,315,DNE NER TOW,5,KIR,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dernovyi Andrii, Fisenko Vitaliy",None,kakovalchuk
+ 07.12.2016 ,1,None,DNE DNE EPK,5,?,None,None,None,None,None,None,"Ikol Vladislav, Pavliukov Sergeii",PICOBTS,kakovalchuk
+ 07.12.2016 ,128,None,LVI TUR SSM,None,LVI,None,None,None,None,None,None,Struk Victor,None,onekryshevych
+ 07.12.2016 ,128,None,LVI KLC TOW,4,UZH,19:58,yellow,19:58,yellow,None,yellow,Karabin Yurij,None,onekryshevych
+ 07.12.2016 ,314,530,DNE DNE UZH,3,DNE,19:49,yellow,19:49,yellow,None,yellow,"Ikol Vladislav, Pavliukov Sergeii, Prusai Oleksandr",None,kakovalchuk
+ 07.12.2016 ,383,None,ODE BRA PRO,4,NIK,18:56,yellow,18:56,yellow,None,yellow,"Pryimak Sergii, Bankow Anatoliy",None,kakovalchuk
+ 07.12.2016 ,898,70,LVI GLV LUB,4,LUT,None,None,None,None,None,None,Storozhev Vladyslav,015G,akybenko
+ 07.12.2016 ,705,"645,650",KHA KHA POB,3,KHA,17:09,yellow,17:09,yellow,None,yellow,Zanihaylo Evgenii,Net odnoj phasy (L2),ntriska
+ 07.12.2016 ,179,210,DNE ZAP MHS,4,ZAP,16:23,yellow,16:23,yellow,None,yellow,Velychko Oleksandr,UMTS,akybenko
+ 07.12.2016 ,127,None,DON ORL PIP,4,KRM,None,ForestGreen,None,ForestGreen,None,ForestGreen,Grushevskii Evgenii,None,ntriska
+ 07.12.2016 ,705,325,KHA KHA MYA,2,KHA,13:25,yellow,13:25,yellow,None,yellow,Zanihaylo Evgenii,None,ezhabenko
+ 07.12.2016 ,931,855,KIE KIE KER,5,KIE,None,None,None,None,None,None,"Mitko Sergii, Dubok Maksym",UMTS+2g,ynemchenko
+ 07.12.2016 ,304,165,DNE DNE GAG,3,DNE,10:08,yellow,10:08,yellow,None,yellow,"Ikol Vladislav, Pavliukov Sergeii, Prusai Oleksandr",Занижено напряжение на одной фазе,aliashchuk
+ 07.12.2016 ,380,60,DNE SVV BYT,5,KIR,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dernovyi Andrii, Fisenko Vitaliy",CDMA 766,snikiforov
+ 07.12.2016 ,334,240,DNE DZH ZAR,5,DNE,07:01,yellow,07:01,yellow,None,yellow,"Ikol Vladislav, Petrov Konstantin, Pavliukov Sergeii, Prusai Oleksandr",None,snikiforov
+ 07.12.2016 ,777,None,DON KRL PAV,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,ntriska
+ 06.12.2016 ,865,"115,120",KIE CHN GND,4,CHN,17:56,yellow,17:56,yellow,None,yellow,Kozlov Alexandr,None,ntriska
+ 06.12.2016 ,988,505,LVI TLM TKE,5,IVF,None,None,None,None,None,None,"Lushchak Mykola, Sergeev Viktor",None,kakovalchuk
+ 06.12.2016 ,733,None,ODE TAV KOB,3,HER,16:45,ForestGreen,16:45,ForestGreen,None,ForestGreen,"Romanov Sergii, Slabukho Oleg","UMTS, GSM v 02:07",snikiforov
+ 06.12.2016 ,725,115,KHA KHA GMT,4,KHA,None,ForestGreen,None,ForestGreen,None,ForestGreen,Mashkin Dmytro,None,ntriska
+ 06.12.2016 ,319,280,DNE ZAP PAR,3,ZAP,14:28,yellow,14:28,yellow,None,yellow,Velychko Oleksandr,None,kakovalchuk
+ 06.12.2016 ,158,None,LVI BRO TRU,None,LVI,13:48,yellow,13:48,yellow,None,yellow,Rybak Maryan,None,onekryshevych
+ 06.12.2016 ,None,None,DNE DNE BLA,3,DNE,13:00,yellow,13:00,yellow,None,yellow,"Nosach Ruslan, Pavliukov Sergeii, Shiyan Viktor",хуавей,kakovalchuk
+ 06.12.2016 ,None,None,KHA KIP GRI,None,?,None,None,None,None,None,None,Mashkin Dmytro,umts,ezhabenko
+ 06.12.2016 ,595,250,KHA LUB SNI,4,KRE,10:52,yellow,10:52,yellow,None,yellow,Mamon Valentin,None,ezhabenko
+ 06.12.2016 ,925,150,KHA LOK NYA,5,SUM,10:06,ForestGreen,10:06,ForestGreen,None,ForestGreen,Didenko Andrey,pl res,ntriska
+ 06.12.2016 ,None,None,KIE SBR KIE,None,KIE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dubok Maksym, Mitko Sergii",umts posle pitaniya.,ynemchenko
+ 05.12.2016 ,324,160,DNE DNE HME,5,DNE,21:15,ForestGreen,21:15,ForestGreen,None,ForestGreen,"Ikol Vladislav, Pavliukov Sergeii, Petrov Konstantin, Prusai Oleksandr",gsm + umts,phuskov
+ 05.12.2016 ,None,None,DNE DNE TI2,3,DNE,18:01,ForestGreen,18:01,ForestGreen,None,ForestGreen,"Ikol Vladislav, Pavliukov Sergeii, Petrov Konstantin, Prusai Oleksandr",umts. Авария в сети арендодателя. Установка ДГУ нецелеобразна. По информации Прусай А.,akybenko
+ 05.12.2016 ,380,"620,625",DNE BOG TOW,4,KIR,15:51,yellow,15:51,yellow,None,yellow,"Dernovyi Andrii, Fisenko Vitaliy",None,snikiforov
+ 05.12.2016 ,707,None,DON SKR AGR,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,rdegtyarenko
+ 05.12.2016 ,765,"470,475",KHA LES STE,4,KHA,12:33,yellow,12:33,yellow,None,yellow,Kolosovsky Evgen,None,opoznikharenko
+ 05.12.2016 ,128,None,LVI SMB TEL,5,LVI,06:19,yellow,06:19,yellow,None,yellow,Rybak Maryan,None,ynemchenko
+ 04.12.2016 ,None,None,DNE BER MKR,None,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,Chernobut Sergey,U,aliashchuk
+ 04.12.2016 ,354,120,DNE DNE ENR,3,DNE,None,None,None,None,None,None,"Ikol Vladislav, Pavliukov Sergeii",CDMA 311. 1 сектор,aliashchuk
+ 04.12.2016 ,801,830,KIE REC MOS,5,KIE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dubok Maksym, Mitko Sergii",cdma 75 нету ЗИПа URC2,sgusenko
+ 03.12.2016 ,507,None,DON BRN MVD,3,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,obilous
+ 02.12.2016 ,978,200,LVI CHR KLM,5,CHR,18:36,yellow,18:36,yellow,None,yellow,Antonyuk Roman,None,onekryshevych
+ 02.12.2016 ,128,None,LVI TUR TVT,3,LVI,None,None,None,None,None,None,"Glinka Volodymyr, Bartysh Igor",30G,onekryshevych
+ 02.12.2016 ,1,None,LVI PIC JOS,5,LVI,None,None,None,None,None,None,"Bartysh Igor, Glinka Volodymyr",picoBTS,kakovalchuk
+ 02.12.2016 ,985,"50,55",KHA AHT LEB,5,SUM,None,None,None,None,None,None,Halchenko Vycheslav,"umts, 250 sektor",ezhabenko
+ 01.12.2016 ,1,None,KHA KIP LEN,5,KHA,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skurikhin Volodymyr,Демонтаж BTS из-за переезда магазина ПрАТ МТС.,rdegtyarenko
+ 01.12.2016 ,1,None,DNE ZAP PGS,5,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Chernobut Sergey, Kovalev Alexander, Tyuterev Denis",RF UNIT HARDWARE FAULT / D,ishestopal
+ 30.11.2016 ,938,550,LVI SKU KTS,4,CHR,20:03,yellow,20:03,yellow,None,yellow,Antonyuk Roman,None,ynemchenko
+ 30.11.2016 ,128,None,LVI STR KOS,5,LVI,None,None,None,None,None,None,"Bartysh Igor, Glinka Volodymyr",umts,onedosiek
+ 29.11.2016 ,17,None,DON DON SIG,5,DON,15:30,ForestGreen,15:30,ForestGreen,None,ForestGreen,Skotskiy Sergey,None,obilous
+ 29.11.2016 ,632,None,KIE ZHI KUR,5,ZHI,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kuprinenko Andrey, Lysiuk Oleksandr",bez indikacii rezerva,vivanin
+ 29.11.2016 ,938,495,LVI JUR ZST,4,CHR,00:37,yellow,00:37,yellow,None,yellow,Antonyuk Roman,None,sgusenko
+ 28.11.2016 ,1,None,ODE PIK HLE,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Semenkov Vladimir, Savchin Andrey",PICOBTS,kakovalchuk
+ 28.11.2016 ,338,None,LVI BRO CNT,3,LVI,09:58,ForestGreen,09:58,ForestGreen,None,ForestGreen,Markovych Mihail,None,onedosiek
+ 27.11.2016 ,138,None,LVI LVI ROM,3,LVI,17:36,yellow,17:36,yellow,None,yellow,Rybak Maryan,None,sgusenko
+ 25.11.2016 ,118,None,LVI CRT CNT,3,TER,None,None,None,None,None,None,"Bazan Petro, Marcijash Petro",Демонтирована по требованию арендодателя. Пахалюк Е. Не вносить.,alkuzmenko
+ 24.11.2016 ,57,None,DON MAK JAS,None,DON,12:26,ForestGreen,12:26,ForestGreen,None,ForestGreen,"Bogatyryov Leonid, Kolesnikov Konstantin",None,ntriska
+ 23.11.2016 ,None,None,KIE KIE PM8,5,KIE,None,None,None,None,None,None,"Kovalivskiy Viktor, Voloshyn Ivan",UMTS cell 1-3,snikiforov
+ 23.11.2016 ,422,None,KIE CHK YAG,4,CHK,07:51,yellow,07:51,yellow,None,yellow,Lukash Alexandr,po MUX,kpapushoy
+ 21.11.2016 ,717,None,DON MAK KLN,2,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kubanov Grigory,CDMA 159,ntriska
+ 21.11.2016 ,177,None,DON DON UKK,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kubanov Grigory,cdma,obilous
+ 21.11.2016 ,382,None,LVI TRO DUB,4,RIV,None,None,None,None,None,None,Berozkin Vitalii,1 cell,sgusenko
+ 20.11.2016 ,595,"40,45",KHA LUB BAS,3,KRE,None,None,None,None,None,None,Sokolov Aleksandr,UMTS_140,ntriska
+ 20.11.2016 ,875,"295,300",KIE CHN MIL,2,CHN,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Bezkrovnyi Oleksandr, Krutchenko Aleksandr, Mehem Vitaliy","UMTS_300 +RRL na CHN KOL; повреждение мачты АФУ (из-за ураганного ветра), 11:53 отключено питание на CHN MIL во избежание повреждения оборудования; 11:51 25.11 восстановлена рабооспособность БС KIE CHN KOL (перенос RRL)",ezhabenko
+ 19.11.2016 ,138,None,LVI LVI VIK,2,LVI,13:36,yellow,13:36,yellow,None,yellow,Markovych Mihail,None,sgusenko
+ 19.11.2016 ,875,410,KIE CHN PRO,4,CHN,09:40,yellow,09:40,yellow,None,yellow,Bezkrovnyi Oleksandr,дергается,rdegtyarenko
+ 18.11.2016 ,349,"45,50",DNE BLG SHE,3,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Efimenko Taras, Leszczynski Sergii","umts Local Cell ID=20001,Local Cell ID=20004,Local Cell ID=20007",aliashchuk
+ 17.11.2016 ,717,None,DON MAK MMZ,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,None,rdegtyarenko
+ 16.11.2016 ,197,None,DON BLR CUL,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",None,ntriska
+ 15.11.2016 ,328,None,LVI BRZ TVT,5,RIV,None,None,None,None,None,None,Buvaltsev Petro,1 cell,sgusenko
+ 15.11.2016 ,787,None,DON LUG IND,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,rdegtyarenko
+ 14.11.2016 ,513,None,ODE ODE BT6,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Myronov Denys, Timoshenko Dmitriy","нет питания / MICRO BTS. В арендуемом помещении сменился собственник, который откллючил помощение от электроснабжения. Контакты нового собственника переданы договорнику.",ishestopal
+ 14.11.2016 ,677,None,DON KOM CUL,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,ntriska
+ 13.11.2016 ,863,None,ODE RAD POB,0,HER,15:13,ForestGreen,15:13,ForestGreen,None,ForestGreen,"Matveev Sergiy, Smirnov Vyacheslav",None,kakovalchuk
+ 12.11.2016 ,533,None,ODE ODE STB,3,ODE,None,None,None,None,None,None,Kramarenko Alexandr,250G/Local Cell ID=312,kakovalchuk
+ 11.11.2016 ,388,None,LVI KZN TVT,5,RIV,None,None,None,None,None,None,Yakymiv Roman,1 cell,sgusenko
+ 10.11.2016 ,452,None,KIE CHK ALT,2,CHK,None,None,None,None,None,None,Baydak Aleksander,80G,onekryshevych
+ 10.11.2016 ,128,None,LVI UZH GRA,5,UZH,None,None,None,None,None,None,Meleshan Roman,cell 350D,onekryshevych
+ 08.11.2016 ,None,None,ODE ODE FLT,3,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kramarenko Alexandr, Nekrylov Sergey",нет в АИС,ishestopal
+ 07.11.2016 ,978,"135,140",LVI CHR GOL,3,CHR,None,None,None,None,None,None,Zaitsev Olexandr,280U,sgusenko
+ 07.11.2016 ,1,None,KHA SIP KH9,None,SUM,None,None,None,None,None,None,"Stepanov Andrey, Didenko Andrey",None,phuskov
+ 06.11.2016 ,577,None,DON MAK NVK,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,None,akarpenchuk
+ 04.11.2016 ,722,None,KIE CHK KM2,4,CHK,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Demydov Oleksii, Rak Valeriy",UMTS,onedosiek
+ 02.11.2016 ,288,None,LVI DRB RAH,5,UZH,None,None,None,None,None,None,Hajlov Evgeniy,E1/T1 link. Не принят в работу,sgusenko
+ 01.11.2016 ,369,220,DNE GIR TOW_,5,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Savchenko Viacheslav, Shevchuk Dmitriy, Zaits Maksym",акт вандализма,demaksymenko
+ 31.10.2016 ,288,None,LVI DRB RAH,5,UZH,None,None,None,None,None,None,Shamydovskij Juriy,1 cell,sgusenko
+ 31.10.2016 ,928,"175,180",LVI IVF KAL,5,IVF,None,None,None,None,None,None,"Andrusyshyn Genadiy, Sergeev Viktor",10 G   ,phuskov
+ 28.10.2016 ,427,None,DON SVE ALT,3,LUG,10:48,yellow,10:48,yellow,None,yellow,"Lihman Vladimir, Yurchenko Alexander",Перегрев. Понижена. Сдано подрядчикам на устранение аварии. Зона АТО. Заявка в HPSM TDI16000813,ekovalenko
+ 28.10.2016 ,287,None,DON KRD URL,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,obilous
+ 26.10.2016 ,327,None,DON ANT DKV,None,LUG,20:52,ForestGreen,20:52,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Kornienko Aleksey",None,ntriska
+ 25.10.2016 ,107,None,DON KHA PIP,5,DON,09:56,ForestGreen,09:56,ForestGreen,None,ForestGreen,Onishchenko Sergiy,v 21:17 upal SDH_MUX,ntriska
+ 23.10.2016 ,577,None,DON MAK GEL,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,None,ntriska
+ 21.10.2016 ,513,None,ODE ODE ZU1,0,ODE,None,None,None,None,None,None,"Stolyarik Oleg, Kramarenko Alexandr","ODE ZU1,2,3,4,5,6",demaksymenko
+ 20.10.2016 ,282,None,LVI ZRC TVT,3,RIV,None,None,None,None,None,None,Yakymiv Roman,sota ZTE  !!! SD16081785 !!! битая оптика.,ynemchenko
+ 19.10.2016 ,707,None,DON TOR SPU,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,ntriska
+ 17.10.2016 ,368,None,LVI VBC TOW,5,UZH,15:46,yellow,15:46,yellow,None,yellow,Riives Robert,None,onedosiek
+ 16.10.2016 ,337,None,DON GOR VLD,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,ntriska
+ 13.10.2016 ,931,165,KIE KIE HME,3,KIE,10:31,ForestGreen,10:31,ForestGreen,None,ForestGreen,Iakyb Oleksandr,+UMTS,onedosiek
+ 12.10.2016 ,978,"160,165",LVI CHR HMZ,3,CHR,05:46,yellow,05:46,yellow,None,yellow,Kalenchuk Dmytro,None,sgusenko
+ 06.10.2016 ,287,None,DON KRD SEM,5,LUG,None,None,None,None,None,None,"Gubskiy Alexandr, Yurchenko Alexander",ЖАРА,opoznikharenko
+ 05.10.2016 ,158,None,LVI LVI VIN,2,LVI,None,None,None,None,None,None,"Struk Victor, Senitovych Oleh",310G,onedosiek
+ 04.10.2016 ,368,None,LVI DOB TOW,4,UZH,None,None,None,None,None,None,Meleshan Roman,1 cell,sgusenko
+ 03.10.2016 ,228,None,LVI SYN TOW,5,UZH,None,ForestGreen,None,ForestGreen,None,ForestGreen,Meleshan Roman,периодически,onedosiek
+ 30.09.2016 ,1,None,KIE CHK BDI,5,CHK,None,None,None,None,None,None,"Smaglo Maxim, Rak Valeriy",None,APOLONEVYCH
+ 29.09.2016 ,745,355,KHA KHA OFC,4,KHA,None,ForestGreen,None,ForestGreen,None,ForestGreen,Khrol Alexey,tolko 824_CDMA,opoznikharenko
+ 27.09.2016 ,1,None,ODE PIK ERI,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kramarenko Alexandr, Stolyarik Oleg",picoBTS,apolonevych
+ 27.09.2016 ,911,"375,380",KIE REC PHM,5,KIE,None,None,None,None,None,None,"Shumakov Valeriy, Tokarev Anatoliy",40u (cell 1-3),snikiforov
+ 27.09.2016 ,831,"325,327",KIE KIE PFT,5,KIE,None,None,None,None,None,None,"Shumakov Valeriy, Tokarev Anatoliy",UMTS cell 4-6,snikiforov
+ 25.09.2016 ,457,None,DON ALC PTU,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",None,ntriska
+ 22.09.2016 ,177,None,DON DON ICM,5,DON,None,None,None,None,None,None,Didenko Daniil,Periodicheski,ntriska
+ 20.09.2016 ,307,None,DON TOR INC,5,DON,None,None,None,None,None,None,Skotskiy Sergey,None,rdegtyarenko
+ 19.09.2016 ,137,None,DON GOR RUS,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,opoznikharenko
+ 19.09.2016 ,277,None,DON PET CNT,3,LUG,04:50,ForestGreen,04:50,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",None,ntriska
+ 17.09.2016 ,787,None,DON LUG LEK,3,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",Peregrev,ntriska
+ 17.09.2016 ,627,None,DON ANT MTS,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",Peregrev,ntriska
+ 17.09.2016 ,707,None,DON TOR FRA,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,periodicheskaya ostanovka,ntriska
+ 15.09.2016 ,None,None,LVI CHR GM7,None,CHR,None,None,None,None,None,None,"Kalenchuk Dmytro, Tkach Anatoliy",net v ais Отключение орендодателем.,sgusenko
+ 14.09.2016 ,417,None,DON DON SST,5,DON,None,None,None,None,None,None,Gvozd Andrey,None,ntriska
+ 12.09.2016 ,407,None,DON SHA TOW,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kubanov Grigory,BS - locked (PEREGREV) viezd 13.09,opoznikharenko
+ 11.09.2016 ,287,None,DON M21 MOL,5,LUG,None,None,None,None,None,None,"Gubskiy Alexandr, Yurchenko Alexander",Дергается,rdegtyarenko
+ 09.09.2016 ,47,None,DON DON KLG,5,DON,17:34,ForestGreen,17:34,ForestGreen,None,ForestGreen,Buklanov Aleksey,None,vborushok
+ 08.09.2016 ,533,None,ODE ODE LPS,3,ODE,13:30,ForestGreen,13:30,ForestGreen,None,ForestGreen,"Semenkov Vladimir, Timoshenko Dmitriy",CDMA 528 упала в 14:31,kakovalchuk
+ 05.09.2016 ,547,None,DON LUG GAS,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,KGrygor
+ 31.08.2016 ,907,60,DON DON AST,3,DON,None,None,None,None,None,None,Buklanov Aleksey,Upala tolko D300,rdegtyarenko
+ 30.08.2016 ,787,None,DON LUG TEH,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",None,KGrygor
+ 30.08.2016 ,697,None,DON LUG MDR,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",MUX SDH + BTS,oscherbina
+ 30.08.2016 ,247,None,DON MNK CUL,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,vborushok
+ 29.08.2016 ,717,None,DON MAK CHU,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,D340-po temperature,KGrygor
+ 29.08.2016 ,347,None,DON DON ZGM,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,D320_D50,KGrygor
+ 28.08.2016 ,917,"74,76,78",DON DON GNA,4,DON,06:34,yellow,06:34,yellow,None,yellow,Skotskiy Sergey,vse ENVA+VSWR HIGH po 330G,KGrygor
+ 26.08.2016 ,237,None,DON DON AZT,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,CDMA,KGrygor
+ 26.08.2016 ,107,None,DON ZUG RNK,5,DON,None,None,None,None,None,None,Onishchenko Sergiy,D155,KGrygor
+ 26.08.2016 ,137,None,DON GOR USH,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,po peregrevu,KGrygor
+ 26.08.2016 ,707,None,DON TOR KIC,5,DON,09:14,ForestGreen,09:14,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,KGrygor
+ 26.08.2016 ,187,None,DON PRI RUD,5,KRM,07:25,yellow,07:25,yellow,None,yellow,Kirichenko Vladimir,плановые работы РЭС до 16:00- net v AIS,KGrygor
+ 25.08.2016 ,677,None,DON OBL AGR,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,None,rdegtyarenko
+ 22.08.2016 ,997,None,DON M21 NET,4,KRM,17:43,ForestGreen,17:43,ForestGreen,None,ForestGreen,Somenko Rostislav,None,obilous
+ 22.08.2016 ,347,None,DON DON KVN,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,po temperature,KGrygor
+ 22.08.2016 ,717,None,DON MAK UNI,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,po temperature D90&220,KGrygor
+ 22.08.2016 ,637,None,DON DON TPP,5,DON,None,None,None,None,None,None,Gvozd Andrey,po temperature  ,KGrygor
+ 22.08.2016 ,297,None,DON STA OBS,2,LUG,11:24,yellow,11:24,yellow,None,yellow,"Gubskiy Alexandr, Yurchenko Alexander",D45,KGrygor
+ 22.08.2016 ,137,None,DON GOR K08,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,None,KGrygor
+ 22.08.2016 ,197,None,DON ROD CUL,3,LUG,None,None,None,None,None,None,"Gubskiy Alexandr, Yurchenko Alexander",D60,KGrygor
+ 22.08.2016 ,627,None,DON ANT DUB,3,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",po temperature,KGrygor
+ 20.08.2016 ,447,None,DON ENA K75,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kubanov Grigory,Peregrev,ntriska
+ 20.08.2016 ,157,None,DON PRV MAL,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",Peregrev,ntriska
+ 18.08.2016 ,917,510,DON DON TMD,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,+719 CDMA,opoznikharenko
+ 15.08.2016 ,497,None,DON LUG KIR,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Kiriluk Sergey",None,rdegtyarenko
+ 14.08.2016 ,377,None,DON KRV PIP,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",None,ntriska
+ 14.08.2016 ,917,"331,332,333",DON DON YUM,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,Нет питания от ТП-5697. Сдана заявка в ПЭС Энергоуголь,opoznikharenko
+ 12.08.2016 ,None,None,DNE DNE PRD,3,DNE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Shiyan Viktor, Pavliukov Sergeii, Sergeev Alexey, Kochmar Dmytro",None,snikiforov
+ 10.08.2016 ,324,535,DNE DNE TSR,5,DNE,None,None,None,None,None,None,"Shiyan Viktor, Shuligin Alexander, Sergeev Alexey, Iurchenko Igor","Не работают 2 сектора UMTS 120 U1, 270 U1",demaksymenko
+ 09.08.2016 ,37,None,DON DON PSL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,peregrev,alkuzmenko
+ 08.08.2016 ,407,None,DON SHA NVS,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,ntriska
+ 06.08.2016 ,117,None,DON MAK CNT,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,Peregrev,opoznikharenko
+ 04.08.2016 ,137,None,DON GOR GUS,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,"upal RRL prolet GOR ENE<>GOR GUS, GOR PRK",dtrokhimenko
+ 02.08.2016 ,713,None,ODE HER OST,3,HER,None,None,None,None,None,None,Sydorov Andrii,"CDMA 244, 1 sektor",demaksymenko
+ 29.07.2016 ,1,None,KIE KIP FUR,5,KIE,None,None,None,None,None,None,Iakyb Oleksandr,None,akarpenchuk
+ 27.07.2016 ,359,375,DNE OME SEL,4,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Tyuterev Denis, Chernobut Sergey, Zaits Maksym","130G,260G/АКТ ВАНДАЛИЗМА",kakovalchuk
+ 20.07.2016 ,647,None,DON GOR STR,2,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,"GOR INS<>GOR STR, 210_CDMA_GOR STR.  + MUX v 12:56",kpapushoy
+ 16.07.2016 ,577,None,DON MAK ERA,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kubanov Grigory,CDMA192 (Peregrev),opoznikharenko
+ 13.07.2016 ,297,None,DON STA PIP,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",Дергается,obilous
+ 11.07.2016 ,617,None,DON NVL CUL,5,KRM,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kirichenko Vladimir,Avariya RES,obilous
+ 08.07.2016 ,503,None,ODE ODE PSB,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Didenko Sergey, Timoshenko Dmitriy",MICRO BTS U2,demaksymenko
+ 04.07.2016 ,1,None,KIE KIP MPE,5,KIE,None,None,None,None,None,None,"Paustovsky Andriy, Taran Vladimir",None,apolonevych
+ 01.07.2016 ,497,None,DON LUG DOM,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",None,mpetrenko
+ 30.06.2016 ,None,None,LVI CHR MYR,None,CHR,None,None,None,None,None,None,Vasylchuk Vjacheslav,1 cell umts (azimut 20) - RF problem,vborushok
+ 30.06.2016 ,177,None,DON DON K36,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,Перегрев. Компрессор пробит на корпус. ,opoznikharenko
+ 29.06.2016 ,707,None,DON ELI NIK,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,urikov
+ 27.06.2016 ,907,425,DON DON REV,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,po peregrevu,KGrygor
+ 24.06.2016 ,811,210,KIE KIE KIN,5,KIE,None,None,None,None,None,None,Zagorodniy Alexandr,"CDMA 616, net ZIP",snikiforov
+ 22.06.2016 ,777,None,DON KRL CNT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",CDMA 701,opoznikharenko
+ 20.06.2016 ,777,None,DON KRL POZ,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander","upal RRL prolet KRL ATP<>KRL POZ, KRL LUT",urikov
+ 18.06.2016 ,307,None,DON TOR RNK,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,dergaetsya,opoznikharenko
+ 18.06.2016 ,377,None,DON STA TTU,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,obilous
+ 17.06.2016 ,1,None,KIE KIP BRB,3,KIE,None,None,None,None,None,None,"Kovalivskiy Viktor, Shilo Sergiy",picoBTS,kakovalchuk
+ 16.06.2016 ,337,None,DON GOR BES,None,DON,None,None,None,None,None,None,Buklanov Aleksey,дергается ,urikov
+ 14.06.2016 ,427,None,DON SVE BOL,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,urikov
+ 10.06.2016 ,847,None,DON KRD LOB,None,LUG,13:03,ForestGreen,13:03,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander","upal RRL prolet KRD GRN<>KRD LOB, KRD HOT, KRD LOB",ntriska
+ 09.06.2016 ,247,None,DON ELE ELE,None,DON,23:44,yellow,23:44,yellow,None,yellow,Skotskiy Sergey,low battery na BSC 247,urikov
+ 08.06.2016 ,7,None,DON DON BUS,None,DON,None,None,None,None,None,None,Onishchenko Sergiy,None,kpapushoy
+ 07.06.2016 ,247,None,DON DOK ATP,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,163 CDMA upala v  12:47,obilous
+ 02.06.2016 ,497,None,DON LUG SOP,None,LUG,13:24,ForestGreen,13:24,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,mpetrenko
+ 18.05.2016 ,147,None,DON LUG KET,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",MUX+BS,opoznikharenko
+ 15.05.2016 ,None,None,KIE KIP 2RG,None,?,None,None,None,None,None,None,"Mitko Sergii, Paustovsky Andriy",picoBTS,snikiforov
+ 10.05.2016 ,547,None,DON LUG BAK,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",None,ntriska
+ 07.05.2016 ,107,None,DON ZUG LIC,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,periodicheski padaet,mpetrenko
+ 03.05.2016 ,447,None,DON UNK BRT,None,DON,13:37,ForestGreen,13:37,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,ntriska
+ 30.04.2016 ,None,None,DNE KIR TRS,None,KIR,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dernovyi Andrii, Fisenko Vitaliy",None,kakovalchuk
+ 26.04.2016 ,847,None,DON KRD LOB,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander","upal RRL prolet KRD GRN<>KRD LOB, KRD HOT",ntriska
+ 22.04.2016 ,497,None,DON LUG DLP,None,LUG,None,None,None,None,None,None,"Gubskiy Alexandr, Kiriluk Sergey, Yurchenko Alexander","DUVSWR 0,1,2,3-VSWR ALARM HIGH (D80)",KGrygor
+ 17.04.2016 ,227,None,DON LUG GRA,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",None,mpetrenko
+ 15.04.2016 ,197,None,DON LUG PMK,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Lihman Vladimir",periodicheskaiya ostanovka,mpetrenko
+ 13.04.2016 ,707,None,DON SAN TOW,None,DON,None,None,None,None,None,None,Gvozd Andrey,дергается,urikov
+ 10.04.2016 ,827,None,DON LOT CNT,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",Peregrev,ntriska
+ 07.04.2016 ,717,None,DON MAK FAB,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,mpetrenko
+ 06.04.2016 ,407,None,DON SHA PES,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,CDMA 731,ntriska
+ 06.04.2016 ,117,None,DON MAK GIS,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,upal RRL prolet MAK MZH<>MAK GIS+216 CDMA,dtrokhimenko
+ 05.04.2016 ,917,305,DON DON MKK,None,DON,16:56,ForestGreen,16:56,ForestGreen,None,ForestGreen,Gvozd Andrey,TEMP ALARM,urikov
+ 05.04.2016 ,None,None,DNE KIR SMC,None,KIR,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Ermolaev Kirill, Gunka Eugene",None,apolonevych
+ 01.04.2016 ,503,None,ODE ODE UMC,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Didenko Sergey, Myronov Denys, Semenkov Vladimir",umts U2,demaksymenko
+ 31.03.2016 ,667,None,DON SHB AGR,5,KRM,09:21,ForestGreen,09:21,ForestGreen,None,ForestGreen,Kirichenko Vladimir,демонтирована по требованию арендодателя(ликвидация объекта аренды),mpetrenko
+ 29.03.2016 ,847,None,DON KRD LUT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Lihman Vladimir",peregrev,mpetrenko
+ 22.03.2016 ,801,815,KIE KIE BRK,5,KIE,14:03,ForestGreen,14:03,ForestGreen,None,ForestGreen,Ped Oleksii,"Otkluchenie arend-lem iz-za otsutsviya dogovora. Kalibabchuk I v kurse  20:49 3G залочена, в случае восстановления сотрудники ТЦ будут сообщать в ЦКУ звонком",nvrachinskiy
+ 21.03.2016 ,None,None,KIE KIP HUB,None,?,None,None,None,None,None,None,"Tokarev Anatoliy, Shumakov Valeriy",picoBTS,kakovalchuk
+ 14.03.2016 ,537,None,DON ROV SHE,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Lihman Vladimir",None,ntriska
+ 12.03.2016 ,57,None,DON JAS TVT,None,DON,09:47,ForestGreen,09:47,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,"+MUX, BSC-57 v 09:54",kpapushoy
+ 10.03.2016 ,267,None,DON NAZ LEN,None,DON,10:30,ForestGreen,10:30,ForestGreen,None,ForestGreen,Gvozd Andrey,None,mpetrenko
+ 07.03.2016 ,717,None,DON MAK BUT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,"хищение фидеров, D110 еще работает.",mpetrenko
+ 07.03.2016 ,497,None,DON LUG BNK,None,LUG,None,None,None,None,None,None,"Gubarev Mihail, Yurchenko Alexander",G_D,opoznikharenko
+ 29.02.2016 ,537,None,DON ROV ALM,None,LUG,12:40,yellow,12:40,yellow,None,yellow,"Gubarev Mihail, Yurchenko Alexander","Понижена мощность PWR 9, украден наружный блок кондиционера",urikov
+ 25.02.2016 ,513,None,ODE ODE SVB,4,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,Timoshenko Dmitriy,CDMA 541,demaksymenko
+ 18.02.2016 ,None,None,DNE DNE DON,None,DNE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Parhomenko Nikolay, Kulinenko Oleksii, Sergeev Alexey, Babenko Oleksandr, Gurov Ruslan",Saturna net,snikiforov
+ 18.02.2016 ,None,None,DNE DNE RDS,None,DNE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Babenko Oleksandr, Gurov Ruslan, Kulinenko Oleksii, Parhomenko Nikolay, Sergeev Alexey",Saturna net,snikiforov
+ 14.02.2016 ,327,None,DON ROV NAG,None,LUG,None,None,None,None,None,None,"Gubskiy Alexandr, Kornienko Aleksey",периодически,ntriska
+ 09.02.2016 ,27,None,DON LUG GDZ,None,LUG,14:46,ForestGreen,14:46,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",None,urikov
+ 06.02.2016 ,907,75,DON DON BLZ,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,None,urikov
+ 04.02.2016 ,1,None,KIE CHK BDI,None,CHK,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kuschovenko Sergey, Rak Valeriy",None,snikiforov
+ 01.02.2016 ,287,None,DON SUH PIP,None,LUG,02:40,ForestGreen,02:40,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,mpetrenko
+ 28.01.2016 ,107,None,DON KHA BOL,None,DON,06:51,ForestGreen,06:51,ForestGreen,None,ForestGreen,Didenko Daniil,None,mpetrenko
+ 26.01.2016 ,537,None,DON CHP AGR,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",переодически,omozheyko
+ 21.01.2016 ,647,None,DON GOR K30,None,DON,None,None,None,None,None,None,Onishchenko Sergiy,D130,urikov
+ 15.01.2016 ,1,None,KIE KIP DFB,3,KIE,None,None,None,None,None,None,"Ivghenko Sergey, Litvinov Anton",Смена места дислокации КА.Ожидается расторжения договора.,jtrohimenko
+ 11.01.2016 ,487,None,DON SHU GOL,5,KRM,None,ForestGreen,None,ForestGreen,None,ForestGreen,Somenko Rostislav,авария в сети арендодателя,mpetrenko
+ 07.01.2016 ,787,None,DON LUG PIP,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",переодически,opoznikharenko
+ 01.01.2016 ,917,"215,216",DON DON COF,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,750 CDMA,opoznikharenko
+ 23.12.2015 ,407,None,DON SAD PIP,None,DON,13:28,ForestGreen,13:28,ForestGreen,None,ForestGreen,Gvozd Andrey,PEREGREV,opoznikharenko
+ 21.12.2015 ,877,None,DON LUT KLU,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Kiriluk Sergey",None,mpetrenko
+ 16.12.2015 ,851,685,KIE KIE VRD,5,KIE,None,None,None,None,None,None,"Ivghenko Sergey, Kovalivskiy Viktor, Shilo Sergiy, Travinsky Dmitry","soty110D & 110G Арендодатель не дает установить антенны, залочена, в случае восстановления сотрудники ТЦ будут сообщать в ЦКУ звонком",nvrachinskiy
+ 28.11.2015 ,447,None,DON ENA CUL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,omozheyko
+ 15.11.2015 ,207,None,DON DEB M21,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,CDMA 166,urikov
+ 10.11.2015 ,627,None,DON ANT CNT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander","+ANT AVT, ANT KNS",omozheyko
+ 01.11.2015 ,237,None,DON DON VIC,None,DON,None,None,None,None,None,None,Lutov Andrey,D310,opoznikharenko
+ 15.10.2015 ,137,None,DON GOR KSC,None,DON,None,None,None,None,None,None,Buklanov Aleksey,None,mpetrenko
+ 10.10.2015 ,247,None,DON DOK KOM,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,akarpenchuk
+ 30.09.2015 ,587,None,DON PAN BOL,None,DON,17:00,ForestGreen,17:00,ForestGreen,None,ForestGreen,Gvozd Andrey,peregrev,opoznikharenko
+ 30.09.2015 ,907,220,DON DON KKS,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,None,urikov
+ 26.09.2015 ,137,None,DON GOR K10,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,Периодическая остановка MUX SDH,oscherbina
+ 18.09.2015 ,287,None,DON SUH UIN,None,LUG,08:49,ForestGreen,08:49,ForestGreen,None,ForestGreen,Reshetnik Sergey,lock BTS 10:55 ,urikov
+ 11.09.2015 ,547,None,DON LUG TRD,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Kornienko Aleksey",периодически падает,dtrokhimenko
+ 09.09.2015 ,647,None,DON GOR MTR,None,DON,22:25,ForestGreen,22:25,ForestGreen,None,ForestGreen,Buklanov Aleksey,Перегрев. Необходим осмотр сайта ,vborushok
+ 06.09.2015 ,297,None,DON STA PIP,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",украден наружный блок кондиционера,vborushok
+ 01.09.2015 ,997,None,DON KMH TOW,4,KRM,None,None,None,None,None,None,Fisun Valentin,"periodicheski padaet, Необходима замена ODU на KMHTOW, рядом ведутся военные действия",ntriska
+ 30.08.2015 ,27,None,DON LUG CIT,None,LUG,17:03,ForestGreen,17:03,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",None,mpetrenko
+ 25.08.2015 ,117,None,DON MAK VOY,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,"перегрев, периодически Хищение наружного блока кондиционера Кентацу. ",urikov
+ 20.08.2015 ,327,None,DON DOL TOW,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",periodichno,opoznikharenko
+ 17.08.2015 ,307,None,DON TOR ENE,1,DON,16:09,yellow,16:09,yellow,None,yellow,Kolesnikov Konstantin,BSC 307 rect fault,urikov
+ 14.08.2015 ,807,None,DON KIR CUL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,"жара, одна стойка",vborushok
+ 09.08.2015 ,877,None,DON LUT VRU,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,kond v shube mitsubishi,urikov
+ 30.07.2015 ,227,None,DON LUG DIS,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Lihman Vladimir",Peregrev,vvelko
+ 28.07.2015 ,537,None,DON ROV RES,None,LUG,09:29,ForestGreen,09:29,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",net v ais,ezhabenko
+ 24.07.2015 ,787,None,DON LUG GAE,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Kornienko Aleksey",Периодическая остановка,vvelko
+ 23.07.2015 ,507,None,DON BRN UIN,None,LUG,09:53,ForestGreen,09:53,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander","+ brn ane, отключено эл. питание в ТП за неуплату. 01.09.15 v 12:00 BRN ANE vkluchili RRL na UIN po vremennoi sheme.",mpetrenko
+ 21.07.2015 ,147,None,DON LUG VNU,None,LUG,01:55,yellow,01:55,yellow,None,yellow,"Kornienko Aleksey, Lihman Vladimir","d 210 periodicheskoe padenie, Saturn - ok",ezhabenko
+ 16.07.2015 ,37,None,DON DON GAR,None,DON,None,None,None,None,None,None,Onishchenko Sergiy,"periodicheskoe padenie, Перегрев. Выход из стро внутреннего блока fuj18.",vborushok
+ 13.07.2015 ,137,None,DON GOR OKT,None,DON,02:53,ForestGreen,02:53,ForestGreen,None,ForestGreen,Gvozd Andrey,Перегрев. Необходим осморт сайта,vborushok
+ 09.07.2015 ,627,None,DON KRP KST,None,LUG,08:03,ForestGreen,08:03,ForestGreen,None,ForestGreen,,отсутствует эл. питание на заводе,vborushok
+ 26.06.2015 ,347,None,DON DON MUS,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,MUX-upal v 04:00,KGrygor
+ 19.06.2015 ,287,None,DON SUH CUL,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Kornienko Aleksey",temp,ezhabenko
+ 12.06.2015 ,177,None,DON DON VLD,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,Перегрев.PWR-8. 28.05.2015 демонтирован внутренний блок для ремонта.,vborushok
+ 09.06.2015 ,327,None,DON ROV VLK,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lihman Vladimir,периодически падает,vborushok
+ 05.06.2015 ,377,None,DON STA HRU,None,LUG,None,None,None,None,None,None,"Kornienko Aleksey, Lihman Vladimir",повреждение кабеля эл.питания,vborushok
+ 28.05.2015 ,307,None,DON TOR AVT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,"periodicheski padaet RRL prolet TOR ENE<>TOR AVT, TOR GGR, TOR POZ. Перегрев. PWR-8. Выключили стойку BS240 и один источник",vborushok
+ 24.05.2015 ,547,None,DON LUG TRD,None,LUG,14:38,ForestGreen,14:38,ForestGreen,None,ForestGreen,Gubskiy Alexandr,кондиционер неисправен,vborushok
+ 16.05.2015 ,237,None,DON DON REA,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,Доступ на завод сильно затруднен.,vborushok
+ 05.05.2015 ,117,None,DON MAK SEY,None,DON,09:22,ForestGreen,09:22,ForestGreen,None,ForestGreen,Buklanov Aleksey,Жищение наружного блока кондиционера. ,vborushok
+ 25.04.2015 ,267,None,DON SAH AGR,None,DON,06:45,ForestGreen,06:45,ForestGreen,None,ForestGreen,Didenko Daniil,Сайт уничтожен в ходе боевых действий.,vborushok
+ 14.04.2015 ,247,None,DON LUB TOK,None,MAR,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,vswr,ezhabenko
+ 11.04.2015 ,337,None,DON GOR AM2,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,Амстор закрыт. Необходимо посетить сайт.,vborushok
+ 25.03.2015 ,337,None,DON GOR K09,4,DON,None,None,None,None,None,None,Kolesnikov Konstantin,D330 pcmb68 Remote Alarm. Доступа по РРЛ нет.,vborushok
+ 24.03.2015 ,227,None,DON LUG PAN,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubskiy Alexandr,Повреждение кабеля эл.питания (в нескольких местах),vborushok
+ 24.03.2015 ,547,None,DON LUG ZVE,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubskiy Alexandr,Отсутствует эл. питание,vborushok
+ 23.03.2015 ,277,None,DON KRL FAB,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,None,urikov
+ 23.03.2015 ,27,None,DON LUG MOS,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,Отсутствует эл. питание,vborushok
+ 19.03.2015 ,697,None,DON LUG YUZ,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,дергается ,vborushok
+ 16.03.2015 ,157,None,DON CHR RRS,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,,фидера 6 нитки на 20&240G + D305,ntriska
+ 13.03.2015 ,757,None,DON MOS SHA,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,Шахта разбомблена закрыта и обесточена.,vborushok
+ 22.02.2015 ,777,None,DON KRL SOV,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubskiy Alexandr,Неисправен радиомодуль ML - 38\14. ЗИП отсутствует. ,vborushok
+ 16.02.2015 ,717,None,DON MAK KRM,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey, Нет пролет MAK BOL <> MAK KRM. Нет связи с арендадателем.,vborushok
+ 24.01.2015 ,337,None,DON NVL ELE,1,DON,10:39,ForestGreen,10:39,ForestGreen,None,ForestGreen,Lutov Andrey,Хищение оборудования. Необходим осмотр сайта. Комбикормовый завод закрыт. Персонал уволен. Охраны нет.,vborushok
+ 23.01.2015 ,207,None,DON DEB MRK,4,DON,06:03,ForestGreen,06:03,ForestGreen,None,ForestGreen,Didenko Daniil,"+DEB BYT, DEB M21 <> DEB MRK FH. Нет пролета. Необходимо восстановление фидера RRL и кабеля элетропитания на DEB_MRK и рядом разорвался снаряд.",vborushok
+ 19.01.2015 ,907,575,DON DON VYS,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,Рядом с сайтом разорвался снаряд. Сайт полностью прошит осколками,vborushok
+ 12.01.2015 ,7,None,DON DON BUS,1,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,+ MUX  Прямое попадание в котельную. Взрывной волной деформирован контейнер,vborushok
+ 11.01.2015 ,817,None,DON DON SVA,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,попав снаряд,vborushok
+ 25.12.2014 ,647,None,DON GOR GRN,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,GOR_K30 <> GOR GRN FH. Выход из строя ODU ,vborushok
+ 28.11.2014 ,27,None,DON LUG KOP,5,LUG,16:10,ForestGreen,16:10,ForestGreen,None,ForestGreen,Gubarev Mihail,Дали заявку РЭС на включение  в ТП,vborushok
+ 13.11.2014 ,917,185,DON DON IZM,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,CDMA 155 Украден наружный блок кондиционера (25/9/14 был заменен кондиционер). CDMA выключена. Замена производиться не будет,vborushok
+ 01.11.2014 ,547,None,DON LUG AVT,1,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,"MUX, отсутствие эл.питания",vborushok
+ 21.10.2014 ,757,None,DON POP TVT,1,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kornienko Aleksey,"MUX   Повреждена ВОЛС, отсутствует электропитание",vborushok
+ 15.10.2014 ,907,None,DON DON PLH,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,из-за DON KSR,vborushok
+ 03.10.2014 ,917,None,DON DON LPP,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,Магазин заколочен. Доступа на сайт нет,opoznikharenko
+ 25.09.2014 ,27,None,DON LUG RNK,2,LUG,None,None,None,None,None,None,Lihman Vladimir,Sota 350D. VSWR Alarm HIGH,schirkin
+ 13.09.2014 ,67,None,DON GNT KAR,5,MAR,18:23,ForestGreen,18:23,ForestGreen,None,ForestGreen,Kicinenko Evgeny,В результатае боевых действий выведена из строя ВЛ-35кВт.,opoznikharenko
+ 26.08.2014 ,67,None,DON PTR STR,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,"Сайт вскрыли, оборудование растащили.",vborushok
+ 12.08.2014 ,447,None,DON ENA AZS,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,Сайта больше нет.    После попадание снаряда сайт вскрыли и разграбили. ,vborushok
+ 07.08.2014 ,137,None,DON GOR GMZ,1,DON,16:36,ForestGreen,16:36,ForestGreen,None,ForestGreen,Faiden Oleg,+ upal GOR TUB,omozheyko
+ 28.07.2014 ,27,None,DON LUG DZR,1,LUG,13:50,ForestGreen,13:50,ForestGreen,None,ForestGreen,Garbuz Alexey,LUG GDZ rez,schirkin
+ 27.07.2014 ,407,None,DON SHA TVT,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Faiden Oleg,Повреждение осколками снаряда,alkuzmenko
+ 20.07.2014 ,637,None,DON DON AIR,1,DON,19:54,ForestGreen,19:54,ForestGreen,None,ForestGreen,Korniyenko Anton,Upal MUX,ilisogorskyi
+ 17.07.2014 ,57,None,DON JAS GAZ,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gordiychuk Artyom,Сайт разворован. Восстановление невозможно. Зона противостояния.,vborushok
+ 26.05.2014 ,637,None,DON DON MTO,1,DON,19:49,ForestGreen,19:49,ForestGreen,None,ForestGreen,Litvinov Anton,+ Upal MUX v 14:06 27/05,skuhtin
+ 08.12.2016 ,615,235,KHA POL KVD,3,POL,06:59,yellow,06:59,yellow,None,yellow,Bulychev Dmytro,None,ntriska
+ 08.12.2016 ,861,550,KIE REC PID,5,KIE,06:23,yellow,06:23,yellow,None,yellow,Bondar Valeriy,None,onekryshevych
+ 08.12.2016 ,128,None,LVI OBR INS,5,LVI,05:51,yellow,05:51,yellow,None,yellow,Rybak Maryan,None,onekryshevych
+ 08.12.2016 ,362,None,LVI ADM SSN,4,KHM,None,None,None,None,None,None,Gorbunov Volodymyr,Периодически,onekryshevych
+ 08.12.2016 ,533,None,ODE CHE CH2,2,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Zakorchemniy Igor, Kalinin Vladyslav",UMTS,kakovalchuk
+ 08.12.2016 ,978,"150,155",LVI CHR HLU,2,CHR,02:35,yellow,02:35,yellow,None,yellow,Kalenchuk Dmytro,None,onekryshevych
+ 08.12.2016 ,128,None,LVI BOR KOV,5,LVI,01:17,yellow,01:17,yellow,None,yellow,Rybak Maryan,None,onekryshevych
+ 08.12.2016 ,797,None,DON SEV INS,2,SVD,00:31,yellow,00:31,yellow,None,yellow,Miroshnichenko Vyacheslav,None,ntriska
+ 07.12.2016 ,617,None,DON CHA KOM,2,KRM,23:38,yellow,23:38,yellow,None,yellow,Somenko Rostislav,None,ntriska
+ 07.12.2016 ,948,400,LVI STZ STO,4,CHR,22:55,yellow,22:55,yellow,None,yellow,Kalenchuk Dmytro,None,onekryshevych
+ 07.12.2016 ,354,615,DNE DNE EPI,5,DNE,None,None,None,None,None,None,"Ikol Vladislav, Pavliukov Sergeii, Prusai Oleksandr",None,kakovalchuk
+ 07.12.2016 ,567,None,DON MAR VRS,5,MAR,22:27,yellow,22:27,yellow,None,yellow,"Dmitriev Vladimir, Reshetnik Sergey",+ SOP NAD,ntriska
+ 07.12.2016 ,122,None,KIE CHK MLI,4,CHK,21:55,yellow,21:55,yellow,None,yellow,Prasol Aleksey,None,onekryshevych
+ 07.12.2016 ,232,None,KIE ZHI KOL,5,ZHI,21:43,yellow,21:43,yellow,None,yellow,Gorbatyuk Sergey,+ZHI_SHU+ZHI_DUB ,onekryshevych
+ 07.12.2016 ,817,None,DON DON VES,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,+ MUX,ntriska
+ 07.12.2016 ,158,None,LVI ZAT PRM,4,LVI,20:54,yellow,20:54,yellow,None,yellow,Rybak Maryan,None,onekryshevych
+ 07.12.2016 ,228,None,LVI ZAR PER,4,UZH,None,None,None,None,None,None,Karabin Yurij,без инфикации ,onekryshevych
+ 07.12.2016 ,158,None,LVI YAP TOW,4,LVI,19:57,yellow,19:57,yellow,None,yellow,Rybak Maryan,None,onekryshevych
+ 07.12.2016 ,None,None,KIE VAS DEC,None,KIE,None,None,None,None,None,None,"Dubok Maksym, Mitko Sergii",UMTS,onekryshevych
+ 07.12.2016 ,1,None,DNE DNE OBR,5,DNE,None,None,None,None,None,None,"Ikol Vladislav, Pavliukov Sergeii",pico/D2,kakovalchuk
+ 07.12.2016 ,128,None,LVI VOL SMB,4,LVI,18:20,ForestGreen,18:20,ForestGreen,None,ForestGreen,Rybak Maryan,None,onekryshevych
+ 07.12.2016 ,888,125,LVI LUT LAZ,2,LUT,None,None,None,None,None,None,Storozhev Vladyslav,300D,akybenko
+ 07.12.2016 ,547,None,DON LUG KRD,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander","upal RRL prolet LUG OBP<>LUG KRD, LUG TRD, LUG KST",obilous
+ 07.12.2016 ,807,None,DON KIR PIP,5,DON,None,None,None,None,None,None,Onishchenko Sergiy,tolko G,obilous
+ 07.12.2016 ,324,370,DNE DNE ODN,3,DNE,11:35,ForestGreen,11:35,ForestGreen,None,ForestGreen,"Ikol Vladislav, Pavliukov Sergeii, Prusai Oleksandr",CDMA 761,aliashchuk
+ 07.12.2016 ,911,490,KIE REC STB,4,KIE,None,None,None,None,None,None,Bondar Valeriy,Planlovue rabotu RES do 09.12.16 (+umts),ynemchenko
+ 07.12.2016 ,None,None,ODE HER ZAG,5,HER,08:12,yellow,08:12,yellow,None,yellow,"Slabukho Oleg, Romanov Sergii",None,aliashchuk
+ 07.12.2016 ,324,255,DNE DNE KRT,3,DNE,07:13,yellow,07:13,yellow,None,yellow,"Ikol Vladislav, Petrov Konstantin, Pavliukov Sergeii, Prusai Oleksandr",Saturna net,snikiforov
+ 07.12.2016 ,232,None,KIE ZHI CHU,4,ZHI,05:28,yellow,05:28,yellow,None,yellow,Gorbatyuk Sergey,None,sgusenko
+ 07.12.2016 ,871,155,KIE KIE KDI,5,KIE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Mitko Sergii, Dubok Maksym",O&M link - доступен Соты не работают,sgusenko
+ 06.12.2016 ,918,100,LVI GVZ TOW,4,IVF,None,None,None,None,None,None,"Lushchak Mykola, Sergeev Viktor",75G,kakovalchuk
+ 06.12.2016 ,132,None,KIE ZHI CHR,5,ZHI,17:10,yellow,17:10,yellow,None,yellow,Gorbatyuk Sergey,None,onekryshevych
+ 06.12.2016 ,None,None,KIE KIE Z26,None,KIE,None,None,None,None,None,None,"Mitko Sergii, Dubok Maksym",130U,onekryshevych
+ 06.12.2016 ,384,"320,325",DNE NIK NAB,5,DNE,14:28,yellow,14:28,yellow,None,yellow,"Ikol Vladislav, Pavliukov Sergeii, Prusai Oleksandr",None,kakovalchuk
+ 06.12.2016 ,227,None,DON LUG HOS,2,LUG,None,None,None,None,None,None,"Kornienko Aleksey, Gubskiy Alexandr",Upala G_D,ntriska
+ 06.12.2016 ,851,None,KIE KIE 6TC,5,KIE,13:25,ForestGreen,13:25,ForestGreen,None,ForestGreen,Bondar Valeriy,None,sgusenko
+ 06.12.2016 ,497,None,DON LUG S13,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Gubskiy Alexandr",None,ntriska
+ 06.12.2016 ,801,None,KIE KIE SO1,None,KIE,None,None,None,None,None,None,"Mitko Sergii, Dubok Maksym",cell 80g,onekryshevych
+ 06.12.2016 ,831,150,KIE KIE KML,5,KIE,10:10,ForestGreen,10:10,ForestGreen,None,ForestGreen,Bondar Valeriy,None,onekryshevych
+ 06.12.2016 ,128,None,LVI VEL GEV,4,UZH,09:55,ForestGreen,09:55,ForestGreen,None,ForestGreen,Karabin Yurij,None,onekryshevych
+ 06.12.2016 ,32,None,KIE ZHI BR3,3,ZHI,02:41,yellow,02:41,yellow,None,yellow,Gorbatyuk Sergey,None,onedosiek
+ 05.12.2016 ,None,None,DNE DNE TI1,None,DNE,18:01,ForestGreen,18:01,ForestGreen,None,ForestGreen,"Ikol Vladislav, Pavliukov Sergeii, Petrov Konstantin, Prusai Oleksandr",umts. Авария в сети арендодателя. Установка ДГУ нецелеобразна. По информации Прусай А.,akybenko
+ 05.12.2016 ,148,None,LVI DBL TDS,3,LVI,17:48,ForestGreen,17:48,ForestGreen,None,ForestGreen,Markovych Mihail,None,onekryshevych
+ 05.12.2016 ,339,"500,530",DNE BER GAR,4,ZAP,13:40,yellow,13:40,yellow,None,yellow,Velychko Oleksandr,None,snikiforov
+ 05.12.2016 ,319,365,DNE ZAP STO,5,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Bugaenko Vladimir, Leszczynski Sergii, Velychko Oleksandr",UMTS,snikiforov
+ 05.12.2016 ,733,None,ODE NVC STP,5,HER,09:42,yellow,09:42,yellow,None,yellow,"Slabukho Oleg, Romanov Sergii",None,snikiforov
+ 05.12.2016 ,330,140,DNE KRR CHU,5,KRR,None,ForestGreen,None,ForestGreen,None,ForestGreen,Shiyan Viktor,+ CDMA 289 внесен как обрыв,apolonevych
+ 04.12.2016 ,364,"65,70",DNE PAV ALE,5,DNE,20:22,ForestGreen,20:22,ForestGreen,None,ForestGreen,"Ikol Vladislav, Nosach Ruslan, Pavliukov Sergeii, Shiyan Viktor","240d,140d - vandalizm (11 nitok * )",snikiforov
+ 04.12.2016 ,553,None,ODE IVA LEN,5,ODE,None,None,None,None,None,None,"Semenkov Vladimir, Savchin Andrey",150 G,demaksymenko
+ 04.12.2016 ,324,505,DNE DNE TEC,2,DNE,None,None,None,None,None,None,"Ikol Vladislav, Pavliukov Sergeii",сектор CDMA 259,demaksymenko
+ 02.12.2016 ,None,None,ODE ODE VLM,3,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Savchin Andrey, Semenkov Vladimir",None,ishestopal
+ 02.12.2016 ,258,None,LVI ZRN TOW,4,UZH,14:30,yellow,14:30,yellow,None,yellow,Riives Robert,None,onekryshevych
+ 02.12.2016 ,625,425,KHA CHR GLA,5,KRE,13:56,yellow,13:56,yellow,None,yellow,Sokolov Aleksandr,pohitili akkumulyatory,ezhabenko
+ 02.12.2016 ,158,None,LVI ZOL RAD,5,LVI,None,None,None,None,None,None,"Glinka Volodymyr, Bartysh Igor",330G,onekryshevych
+ 01.12.2016 ,831,45,KIE KIE ANU,5,KIE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Dudar Vadym, Paustovsky Andriy, Taran Vladimir",2g+3g bez indikacii rezerva,sgusenko
+ 01.12.2016 ,871,360,KIE KIE TOW,5,KIE,None,None,None,None,None,None,"Dudar Vadym, Paustovsky Andriy, Taran Vladimir",+ KIE_TO2 bez indikacii rezerva отключение питания арендодателем. Окончание аренды. Ответственный Радченко В.   (Нет в АИС),onedosiek
+ 01.12.2016 ,328,None,LVI RIV ZOL,4,RIV,None,None,None,None,None,None,Yakymiv Roman,sector,ynemchenko
+ 30.11.2016 ,369,"435,440",DNE PRI BOR,4,ZAP,None,None,None,None,None,None,"Tyuterev Denis, Chernobut Sergey, Kovalev Alexander",300 G,demaksymenko
+ 29.11.2016 ,901,340,KIE REC VDM,5,KIE,None,None,None,None,None,None,"Paustovsky Andriy, Dudar Vadym", UMTS sector,ynemchenko
+ 29.11.2016 ,577,None,DON MAK KHZ,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,rdegtyarenko
+ 29.11.2016 ,968,360,LVI PAV IVN,4,RIV,00:51,yellow,00:51,yellow,None,yellow,Bondarenko Olexiy,None,ishestopal
+ 28.11.2016 ,388,None,LVI VOZ TOW,5,RIV,23:01,yellow,23:01,yellow,None,yellow,Bondarenko Olexiy,None,sgusenko
+ 28.11.2016 ,334,105,DNE DZH CNT,5,DNE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Babenko Oleksandr, Parinov Anatoliy",CDMA 235,kakovalchuk
+ 28.11.2016 ,327,None,DON SVE SHA,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey","+ BIR KST, SVE KLN, ROV NAV",ntriska
+ 25.11.2016 ,707,None,DON NAZ PTF,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,upal SDH_MUX+BTS,mpetrenko
+ 24.11.2016 ,138,None,LVI LVI VPU,3,LVI,None,None,None,None,None,None,"Urikov Dmytro, Fitsyk Sergey",cell 320G,onekryshevych
+ 23.11.2016 ,697,None,DON LUG ZRN,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",224_CDMA,opoznikharenko
+ 23.11.2016 ,875,540,KIE CHN SOS,5,CHN,08:20,yellow,08:20,yellow,None,yellow,Kozlov Alexandr,Замерзание,kpapushoy
+ 23.11.2016 ,369,530,DNE VTP TOW,4,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kovalev Alexander, Savchenko Viacheslav, Zaits Maksym",АКТ ВАНДАЛИЗМА,kakovalchuk
+ 21.11.2016 ,304,320,DNE DNE MIN,2,DNE,None,None,None,None,None,None,"Gonchar Philip, Kolomoiets Igor, Kulinenko Oleksii","UMTS периодически Local Cell ID=8404,8407,8401",aliashchuk
+ 21.11.2016 ,585,"440,445",KHA RAD MOL,4,POL,None,None,None,None,None,None,Pervakov Oleksandr,Tolko D310,rdegtyarenko
+ 20.11.2016 ,507,None,DON ALM NTB,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey","+ STA FER, LOM SHA",ntriska
+ 20.11.2016 ,53,None,ODE SHY BLK,4,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Savchin Andrey, Semenkov Vladimir","20 G, 300 G",demaksymenko
+ 19.11.2016 ,901,340,KIE REC VDM,5,KIE,None,None,None,None,None,None,Kovalivskiy Viktor,320U (cell 7-9),snikiforov
+ 19.11.2016 ,138,None,LVI LVI SKO,2,LVI,13:19,yellow,13:19,yellow,None,yellow,Markovych Mihail,None,sgusenko
+ 19.11.2016 ,918,330,LVI NZV TLM,4,IVF,None,None,None,None,None,None,"Sbrodov Ivan, Sergeev Viktor",140g,APOLONEVYCH
+ 18.11.2016 ,369,185,DNE ELZ TOW,5,ZAP,None,None,None,None,None,None,"Bugaenko Vladimir, Efimenko Taras, Leszczynski Sergii",300G,demaksymenko
+ 17.11.2016 ,138,None,LVI LVI STU,2,LVI,07:09,yellow,07:09,yellow,None,yellow,Markovych Mihail,None,sgusenko
+ 15.11.2016 ,328,None,LVI SAR ZHU,5,RIV,None,None,None,None,None,None,Shlay Victor,1 CELL,onekryshevych
+ 15.11.2016 ,907,515,DON DON TRN,5,DON,10:49,yellow,10:49,yellow,None,yellow,Bogatyryov Leonid,Частичрое падение TRX,rdegtyarenko
+ 14.11.2016 ,309,410,DNE ZAP TMK,5,ZAP,None,None,None,None,None,None,"Bugaenko Vladimir, Efimenko Taras, Leszczynski Sergii",290D,phuskov
+ 14.11.2016 ,208,None,LVI MOR DZE,5,LVI,None,ForestGreen,None,ForestGreen,None,ForestGreen,Markovych Mihail,MUXs SDH(MBH)+BTS (выведена из эксплуатации),onekryshevych
+ 13.11.2016 ,107,None,DON KHA HMT,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,ntriska
+ 12.11.2016 ,197,None,DON ROD TOW,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey","za nim upali LUG_PRO, LUG_JIB, LUG_MED",rdegtyarenko
+ 11.11.2016 ,363,None,ODE LAZ CHE,5,HER,14:43,ForestGreen,14:43,ForestGreen,None,ForestGreen,"Matveev Sergiy, Smirnov Vyacheslav",отключили питание у арендодателя за неуплату,ishestopal
+ 10.11.2016 ,137,None,DON GOR STI,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,rdegtyarenko
+ 10.11.2016 ,705,710,KHA KHA HAZ,5,KHA,11:54,ForestGreen,11:54,ForestGreen,None,ForestGreen,Kolosovsky Evgen,14:33 - umts/avaria u arendodately ,opoznikharenko
+ 09.11.2016 ,807,None,DON NKR LES,5,DON,19:22,yellow,19:22,yellow,None,yellow,Buklanov Aleksey,None,ntriska
+ 08.11.2016 ,717,None,DON MAK ILI,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,ntriska
+ 07.11.2016 ,1,None,ODE PIK KUN,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kramarenko Alexandr,None,phuskov
+ 06.11.2016 ,364,"115,120",DNE PAV CNT,5,DNE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Ikol Vladislav, Pavliukov Sergeii",310D акт вандализма(12.10.2016 время 08:57). +190D(06.11.2016) +80 d(06.11.2016  время 20:15),ishestopal
+ 06.11.2016 ,157,None,DON M21 BAY,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander","periodichesky upal RRL prolet KMS UIN<>M21 BAY, GRD CNT, PRV MAL, CNT CNT",rdegtyarenko
+ 03.11.2016 ,547,None,DON LUG PLA,3,LUG,None,None,None,None,None,None,"Lihman Vladimir, Yurchenko Alexander",None,rdegtyarenko
+ 01.11.2016 ,907,30,DON DON ABA,2,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,"sektor 000D, АТО БУФЕР",opoznikharenko
+ 01.11.2016 ,958,385,LVI SLO NVS,4,CHR,00:46,yellow,00:46,yellow,None,yellow,Antonyuk Roman,None,sgusenko
+ 31.10.2016 ,707,None,DON VME TOK,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,None,akarpenchuk
+ 29.10.2016 ,377,None,DON KLN CNT,5,LUG,02:15,ForestGreen,02:15,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,ntriska
+ 28.10.2016 ,None,None,DNE ZAP UGP,None,?,None,None,None,None,None,None,Efimenko Taras,Нет в АИСе,APOLONEVYCH
+ 27.10.2016 ,7,None,DON DON MOL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,+ DON UOG,ntriska
+ 25.10.2016 ,527,None,DON NSV CUL,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,"upal RRL prolet OBL AGR<>NSV CUL, NSV MAG",opoznikharenko
+ 25.10.2016 ,317,None,DON MAK MEZ,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,"авария РЭС, горел ТП+выгорел наш кабель. Автоматы включат после замены кабеля.",opoznikharenko
+ 22.10.2016 ,157,None,DON M21 PER,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",Периодически,ntriska
+ 21.10.2016 ,369,565,DNE NVV KOP,5,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kovalev Alexander, Shevchuk Dmitriy, Tyuterev Denis","Акт вандализма, хищение фидера BTS",demaksymenko
+ 20.10.2016 ,118,None,LVI CRT POL,3,TER,None,None,None,None,None,None,Marcijash Petro,с 19.10.16 по 25.12.16 ремонт крыши. Не вносить в АИС.,ynemchenko
+ 18.10.2016 ,None,None,LVI IND AIR,None,LVI,None,None,None,None,None,None,"Bartysh Igor, Glinka Volodymyr","Не працюють 2 соти UMTS: Departure 3 floor 1, floor 2",demaksymenko
+ 17.10.2016 ,777,None,DON KRL GRS,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",Periodicheski,opoznikharenko
+ 16.10.2016 ,338,None,LVI OLS BUS,4,LVI,08:51,yellow,08:51,yellow,None,yellow,Rybak Maryan,po MUX - Power abnormal,ynemchenko
+ 12.10.2016 ,8,None,LVI GAL GRD,5,LVI,10:30,yellow,10:30,yellow,None,yellow,Markovych Mihail,None,ynemchenko
+ 07.10.2016 ,347,None,DON DON BAG,2,DON,19:34,yellow,19:34,yellow,None,yellow,Onishchenko Sergiy,перегрев,akarpenchuk
+ 06.10.2016 ,497,None,DON LUG CNT,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",None,akarpenchuk
+ 05.10.2016 ,148,None,LVI LVI AL2,3,LVI,None,None,None,None,None,None,"Senitovych Oleh, Struk Victor",330G,onedosiek
+ 03.10.2016 ,108,None,LVI NIK DRG,4,LVI,None,ForestGreen,None,ForestGreen,None,ForestGreen,Markovych Mihail,MUX,kpapushoy
+ 02.10.2016 ,157,None,DON ZOR CUL,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",периодически,opoznikharenko
+ 29.09.2016 ,None,None,ODE NIK ZMR,3,NIK,10:18,ForestGreen,10:18,ForestGreen,None,ForestGreen,"Bankow Anatoliy, Pryimak Sergii",None,ishestopal
+ 28.09.2016 ,627,None,DON ANT ILI,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,rdegtyarenko
+ 27.09.2016 ,288,None,LVI KPN GAT,4,UZH,11:54,yellow,11:54,yellow,None,yellow,Karabin Yurij,RF+BF,sgusenko
+ 27.09.2016 ,417,None,DON DON THE,5,DON,03:16,yellow,03:16,yellow,None,yellow,Kolesnikov Konstantin,None,ntriska
+ 26.09.2016 ,447,None,DON ENA CNT,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,ntriska
+ 23.09.2016 ,917,"215,216",DON DON COF,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,ntriska
+ 20.09.2016 ,37,None,DON DON UCM,5,DON,None,None,None,None,None,None,Skotskiy Sergey,None,rdegtyarenko
+ 20.09.2016 ,197,None,DON ZIM CUL,3,LUG,08:33,yellow,08:33,yellow,None,yellow,"Lihman Vladimir, Yurchenko Alexander",Периодически,rdegtyarenko
+ 19.09.2016 ,577,None,DON MAK LTS,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,Peregrev,ntriska
+ 18.09.2016 ,777,None,DON KRL MRK,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",Peregrev,ntriska
+ 17.09.2016 ,577,None,DON MAK CUL,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,Периодически,ntriska
+ 17.09.2016 ,557,None,DON KRS JAK,2,KRM,04:35,yellow,04:35,yellow,None,yellow,Kirichenko Vladimir,"Peregrev, T=60C",ntriska
+ 16.09.2016 ,None,None,ODE PBS AA2,None,?,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Podoprygora Andriy, Evstefeev Sergey",None,ishestopal
+ 15.09.2016 ,513,None,ODE ODE GDR,5,ODE,12:22,ForestGreen,12:22,ForestGreen,None,ForestGreen,Myronov Denys,Отключение арендодателем. Разногласия относительно договора аренды и оплаты.,ishestopal
+ 14.09.2016 ,337,None,DON GOL PIP,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,None,ntriska
+ 12.09.2016 ,457,None,DON ALC AMN,5,LUG,None,None,None,None,None,None,"Lihman Vladimir, Yurchenko Alexander",None,rdegtyarenko
+ 09.09.2016 ,587,None,DON DZR HRS,5,KRM,None,None,None,None,None,None,Somenko Rostislav,КОНДИЦИОНЕР ДЕФЕКТОВАН,vborushok
+ 09.09.2016 ,1,None,ODE PIK HUT,5,ODE,None,None,None,None,None,None,"Semenkov Vladimir, Timoshenko Dmitriy",+PIK SUZ пико-BTS,demaksymenko
+ 06.09.2016 ,907,"285,290",DON DON LID,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Bogatyryov Leonid, Didenko Daniil",CDMA191 Перегрев. Рестарт кондиционера. Выключил CDMA по питанию до холодов. ,obilous
+ 31.08.2016 ,507,None,DON BRN MOL,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Kornienko Aleksey",None,vborushok
+ 31.08.2016 ,None,None,LVI LUT ZVD,3,LUT,None,None,None,None,None,None,"Ignatov Daniil, Knysh Juriy",net v AIS UMTS демонтирована,APOLONEVYCH
+ 30.08.2016 ,327,None,DON BIR KST,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",po temperature,KGrygor
+ 30.08.2016 ,777,None,DON KRL ATP,3,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey","+KRL LUT, KRL POZ, VAH CNT",KGrygor
+ 30.08.2016 ,247,None,DON STR KAM,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,vborushok
+ 29.08.2016 ,407,None,DON SHA SVR,5,DON,None,None,None,None,None,None,Didenko Daniil,D0-po temperature,KGrygor
+ 29.08.2016 ,277,None,DON KRL KNG,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,vborushok
+ 27.08.2016 ,907,545,DON DON TXT,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,po temperature,KGrygor
+ 26.08.2016 ,697,None,DON LUG FAB,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",None,KGrygor
+ 26.08.2016 ,847,None,DON KRD CNT,3,LUG,None,None,None,None,None,None,"Gubskiy Alexandr, Yurchenko Alexander",D105_D320,KGrygor
+ 26.08.2016 ,907,"210,215",DON DON KIR,2,DON,None,None,None,None,None,None,Onishchenko Sergiy,D-po peregrevu,KGrygor
+ 26.08.2016 ,327,None,DON ROV DZR,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",None,KGrygor
+ 25.08.2016 ,537,None,DON ROV MEL,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",Peregrev,ntriska
+ 23.08.2016 ,417,None,DON DON MCH,3,DON,None,None,None,None,None,None,Lutov Andrey,Peregrev,rdegtyarenko
+ 22.08.2016 ,157,None,DON FAS CNT,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",po temperature,KGrygor
+ 22.08.2016 ,777,None,DON KRL ILI,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",None,KGrygor
+ 22.08.2016 ,637,None,DON DON VES,4,DON,None,None,None,None,None,None,Gvozd Andrey,D190,KGrygor
+ 22.08.2016 ,907,165,DON DON PNT,3,DON,12:00,yellow,12:00,yellow,None,yellow,Gvozd Andrey,None,KGrygor
+ 22.08.2016 ,917,80,DON DON BOG,5,DON,10:41,yellow,10:41,yellow,None,yellow,Gvozd Andrey,None,KGrygor
+ 22.08.2016 ,577,None,DON MAK MON,5,DON,None,None,None,None,None,None,Gvozd Andrey,D65 & D160,KGrygor
+ 22.08.2016 ,337,None,DON GOR NIK,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,None,KGrygor
+ 22.08.2016 ,147,None,DON LUG STE,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",PERIODICHESKI,KGrygor
+ 20.08.2016 ,327,None,DON SVE KLN,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Yurchenko Alexander,Peregrev,ntriska
+ 18.08.2016 ,607,None,DON SNE KRP,3,DON,18:30,yellow,18:30,yellow,None,yellow,Onishchenko Sergiy,None,opoznikharenko
+ 17.08.2016 ,917,"348,349",DON DON RZ1,5,DON,None,None,None,None,None,None,Buklanov Aleksey,Periodicheski,ntriska
+ 15.08.2016 ,917,"351,352,353",DON DON RZD,2,DON,None,None,None,None,None,None,"Buklanov Aleksey, Gvozd Andrey",Upal tolko D130,rdegtyarenko
+ 14.08.2016 ,297,None,DON STA ABS,None,LUG,None,None,None,None,None,None,"Lihman Vladimir, Yurchenko Alexander",Peregrev,ntriska
+ 12.08.2016 ,917,135,DON DON DSO,5,DON,None,None,None,None,None,None,Buklanov Aleksey,Upal po peregrevy,rdegtyarenko
+ 11.08.2016 ,157,None,DON ALC ISA,3,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Kiriluk Sergey",None,rdegtyarenko
+ 09.08.2016 ,627,None,DON ANT CUL,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",None,ntriska
+ 08.08.2016 ,917,"30,31,32",DON DON SHK,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,ntriska
+ 07.08.2016 ,577,None,DON MAK OBS,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,Peregrev T=69C,rdegtyarenko
+ 04.08.2016 ,None,None,LVI CHR GLV,3,CHR,17:36,ForestGreen,17:36,ForestGreen,None,ForestGreen,Kalenchuk Dmytro,None,snikiforov
+ 04.08.2016 ,137,None,DON GOR PRK,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,None,dtrokhimenko
+ 31.07.2016 ,177,None,DON DON VLD,5,DON,None,None,None,None,None,None,Didenko Daniil,iz-za peregreva,mpetrenko
+ 28.07.2016 ,None,None,ODE ODE CVT,None,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Didenko Sergey, Zakorchemniy Igor",нет в АИСе,apolonevych
+ 27.07.2016 ,324,195,DNE DNE KAB,4,DNE,None,None,None,None,None,None,"Ikol Vladislav, Kravets Oleksandr",Авардодатель разорвал договор как временное решение переподключили на столбе толко 1800. 900 диапазон будет когда построят мачту,APOLONEVYCH
+ 16.07.2016 ,827,None,DON ALC SPO,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",VSWR Alarm High,ntriska
+ 15.07.2016 ,17,None,DON MAK STD,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Skotskiy Sergey,None,ntriska
+ 12.07.2016 ,907,420,DON DON PTR,5,DON,22:48,ForestGreen,22:48,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,+MUX 11:34 14/07 Причина ПВ кабеля питания между БС и ТП,kpapushoy
+ 10.07.2016 ,337,None,DON GOR VOS,5,DON,10:27,ForestGreen,10:27,ForestGreen,None,ForestGreen,Bogatyryov Leonid,None,andreyivanov
+ 08.07.2016 ,337,None,DON GOR VOS,5,DON,04:33,ForestGreen,04:33,ForestGreen,None,ForestGreen,Kubanov Grigory,None,opoznikharenko
+ 01.07.2016 ,978,"40,45",LVI CHR BUK,4,CHR,12:30,ForestGreen,12:30,ForestGreen,None,ForestGreen,Antonyuk Roman,"+UMTS  demontazh  +CHR MED, CHR MYR perepriviazany + MUXPTN 02:57",kpapushoy
+ 30.06.2016 ,907,520,DON DON TRU,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,157 CDMA upala,mpetrenko
+ 30.06.2016 ,197,None,DON BEL AVT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander","POSTOYANNO padaet RRL prolet MIH PIP<>BEL AVT, M21 VST, BEL MAG ",rdegtyarenko
+ 29.06.2016 ,917,"222,224,225",DON DON PRL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,urikov
+ 29.06.2016 ,577,None,DON MAK GRB,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,Peregrev,ntriska
+ 27.06.2016 ,917,360,DON DON PER,None,DON,None,None,None,None,None,None,Skotskiy Sergey,"Peregrev, dergaetsya",opoznikharenko
+ 22.06.2016 ,287,None,DON IVA AGR,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,ntriska
+ 22.06.2016 ,1,None,KIE KIP VTB,3,KIE,None,None,None,None,None,None,"Kubickiy Oleg, Shilo Sergiy",None,jtrohimenko
+ 20.06.2016 ,317,None,DON MAK HUT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kubanov Grigory,None,mpetrenko
+ 18.06.2016 ,847,None,DON KRD LUT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander","Upal RRL prolet KRD TOW<>KRD LUT, KRD AVT",obilous
+ 18.06.2016 ,147,None,DON LUG SUN,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Gubskiy Alexandr",None,urikov
+ 16.06.2016 ,457,None,DON ALC AMH,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",периодически,opoznikharenko
+ 14.06.2016 ,37,None,DON DON PSP,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,Periodichno. Peregrev.,obilous
+ 12.06.2016 ,827,None,DON MIH CNT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",None,mpetrenko
+ 10.06.2016 ,227,None,DON LUG GOR,None,LUG,04:19,ForestGreen,04:19,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",Periodichno,obilous
+ 08.06.2016 ,None,None,DNE DNE PE2,None,DNE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kravets Oleksandr, Kulinenko Oleksii, Nosach Ruslan, Petrov Konstantin",акт вандализма,kakovalchuk
+ 08.06.2016 ,597,None,DON PER LEN,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",D330,dtrokhimenko
+ 03.06.2016 ,377,None,DON STA AVT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Lihman Vladimir",None,mpetrenko
+ 27.05.2016 ,1,None,KIE KIP KVI,3,KIE,None,None,None,None,None,None,"Hrynko Sergii, Iakyb Oleksandr",d5,apolonevych
+ 17.05.2016 ,47,None,DON DON SHE,None,DON,09:34,ForestGreen,09:34,ForestGreen,None,ForestGreen,Bogatyryov Leonid,None,ezhabenko
+ 12.05.2016 ,533,None,ODE ODE REM,4,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Timoshenko Dmitriy, Naumov Oleksandr",sector 1 cdma 558,kakovalchuk
+ 08.05.2016 ,847,None,DON KRD AVT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander","на KRD LUT жара(РРЛ упал), на LUT 1 стойка держится ",opoznikharenko
+ 06.05.2016 ,197,None,DON HOR PIP,None,LUG,12:36,ForestGreen,12:36,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",2 cell,vborushok
+ 01.05.2016 ,847,None,DON KRD BOL,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",перегрев периодически падает,mpetrenko
+ 29.04.2016 ,427,None,DON CHE GSO,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",Периодически,ntriska
+ 24.04.2016 ,57,None,DON JAS AUR,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,"714 CDMA upala, GSM upala v 09:48 12.03.16, vneseno v AIS.",mpetrenko
+ 21.04.2016 ,827,None,DON ALC LEN,None,LUG,09:52,ForestGreen,09:52,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",None,urikov
+ 15.04.2016 ,907,"35,37",DON DON ABK,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,193 CDMA  upala,mpetrenko
+ 14.04.2016 ,717,None,DON MAK BOL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,"208 CDMA upala, GSM v rabote",mpetrenko
+ 11.04.2016 ,457,None,DON ALC RAI,None,LUG,15:25,ForestGreen,15:25,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Lihman Vladimir",700 CDMA ,opoznikharenko
+ 10.04.2016 ,237,None,DON DON REA,None,DON,09:53,ForestGreen,09:53,ForestGreen,None,ForestGreen,Skotskiy Sergey,+ MUX 87 (net v AIS) upal v 11:22,snikiforov
+ 07.04.2016 ,197,None,DON LUG ALX,None,LUG,None,None,None,None,None,None,"Kiriluk Sergey, Yurchenko Alexander",D60,urikov
+ 06.04.2016 ,177,None,DON DON BKL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,mpetrenko
+ 05.04.2016 ,17,None,DON MAK MTR,None,DON,21:19,ForestGreen,21:19,ForestGreen,None,ForestGreen,Gvozd Andrey,None,opoznikharenko
+ 05.04.2016 ,1,None,KIE KIP PRP,3,KIE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lytovka Serhii, Povar Alex","Пико, периодически падает. ",kakovalchuk
+ 04.04.2016 ,317,None,DON HAN OKN,None,DON,None,None,None,None,None,None,Didenko Daniil,"periodicheski padaet RRL prolet HAN PIP<>HAN OKN, HAN GSM",mpetrenko
+ 31.03.2016 ,1,None,KIE KIP UNL,3,KIE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gergel Andrey, Paustovsky Andriy",Pico. Oдна сота выводится с эксплуатации. (D3 подписана как D0),ishestopal
+ 30.03.2016 ,27,None,DON LUG GSV,None,LUG,05:40,yellow,05:40,yellow,None,yellow,"Kornienko Aleksey, Lihman Vladimir",периодически,ntriska
+ 26.03.2016 ,17,None,DON MAK ZAP,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,VSWR alarm HIGH - хищение фидеров,mpetrenko
+ 21.03.2016 ,697,None,DON LUG ZAR,None,LUG,20:41,ForestGreen,20:41,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",temp upala D290,mpetrenko
+ 17.03.2016 ,17,None,DON MAK MT1,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,mpetrenko
+ 12.03.2016 ,247,None,DON ELE ELE,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,BSC 247,urikov
+ 10.03.2016 ,267,None,DON NAZ CNT,None,DON,10:50,ForestGreen,10:50,ForestGreen,None,ForestGreen,Gvozd Andrey,"+MUX v 09:49 11.03 +RRL v 08:43 11.03 <>SED PAN, NAZ OBR/<>SED AGR/<>NAZ LEN/<>GUS ELE",oscherbina
+ 09.03.2016 ,807,None,DON KIR AVT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,None,urikov
+ 07.03.2016 ,267,None,DON BEZ AGR,None,DON,17:35,ForestGreen,17:35,ForestGreen,None,ForestGreen,Gvozd Andrey,BS locked + MUX v 18:54 10.03,kpapushoy
+ 03.03.2016 ,57,None,DON JAS VAS,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,None,ntriska
+ 26.02.2016 ,57,None,DON JAS PIP,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,Upala CDMA713,ntriska
+ 21.02.2016 ,1,None,KIE KIP DFI,None,?,None,None,None,None,None,None,Dubok Maksym,periodicheski (net v ais),KGrygor
+ 18.02.2016 ,1,None,ODE PIK KRL,5,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,Chernykh Vjacheslav,D3,snikiforov
+ 15.02.2016 ,447,None,DON ENA SHA,None,DON,09:10,yellow,09:10,yellow,None,yellow,Gvozd Andrey,D240,mpetrenko
+ 12.02.2016 ,197,None,DON LUG TPL,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Yurchenko Alexander",None,ntriska
+ 08.02.2016 ,291,635,KIE REC BU2,3,KIE,None,None,None,None,None,None,Zagorodniy Alexandr,"CDMA 634, net ZIP",snikiforov
+ 04.02.2016 ,247,None,DON STY AVT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,None,opoznikharenko
+ 02.02.2016 ,427,None,DON SVE VOS,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",None,ntriska
+ 30.01.2016 ,247,None,DON DOK ATP,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,upala GSM,mpetrenko
+ 26.01.2016 ,377,None,DON KRV CNT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Kornienko Aleksey",702 CDMA otkluchili avtomatom v 13:51. Na saite peregrev (ukrali kondiki).,mpetrenko
+ 24.01.2016 ,337,None,DON GOR VTN,None,DON,10:14,yellow,10:14,yellow,None,yellow,Kolesnikov Konstantin,na BSC 807 ENVA: RECT FAULT,urikov
+ 18.01.2016 ,None,None,LVI LUT KRV,None,LUT,15:31,ForestGreen,15:31,ForestGreen,None,ForestGreen,Knysh Juriy,она в Huawei,vvelko
+ 13.01.2016 ,7,None,DON DON KRI,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,None,ntriska
+ 07.01.2016 ,503,None,ODE ODE TIR,4,ODE,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Baluk Illya, Semenkov Vladimir","CDMA 534 - выключена, течёт потолок в помещении",demaksymenko
+ 03.01.2016 ,227,None,DON LUG TMO,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubarev Mihail,avaria RES,opoznikharenko
+ 29.12.2015 ,907,165,DON DON PNT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,CDMA 695,snikiforov
+ 22.12.2015 ,327,None,DON ANT DKV,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",периодически,opoznikharenko
+ 21.12.2015 ,339,10,DNE BER AMS,5,ZAP,None,ForestGreen,None,ForestGreen,None,ForestGreen,Bugaenko Vladimir,MICRO BTS NSN ,rdegtyarenko
+ 12.12.2015 ,287,None,DON KRD SMS,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander","D200, периодически падает",omozheyko
+ 26.11.2015 ,917,15,DON DON 578,None,DON,None,None,None,None,None,None,Didenko Daniil,ремонт трубы котельни ,opoznikharenko
+ 12.11.2015 ,177,None,DON DON KRK,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,None,opoznikharenko
+ 04.11.2015 ,27,None,DON LUG TVT,None,LUG,08:33,yellow,08:33,yellow,None,yellow,"Lihman Vladimir, Yurchenko Alexander",po MUX,opoznikharenko
+ 19.10.2015 ,107,None,DON KHA ENE,None,DON,None,None,None,None,None,None,Lutov Andrey,PPXU1 ,opoznikharenko
+ 12.10.2015 ,677,None,DON STR BOL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,net v AIS,snikiforov
+ 10.10.2015 ,377,None,DON STA UGL,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey",None,opoznikharenko
+ 30.09.2015 ,907,"350,355",DON DON PBD,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,None,urikov
+ 29.09.2015 ,877,None,DON LUT VRU,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",None,obilous
+ 18.09.2015 ,917,85,DON DON MEL,None,DON,None,LightGreen,None,LightGreen,None,LightGreen,Lutov Andrey,None,vborushok
+ 16.09.2015 ,677,None,DON MOS KOP,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,Періодична зупинка,vborushok
+ 11.09.2015 ,547,None,DON LUG SPR,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Kiriluk Sergey, Kornienko Aleksey",периодически падает,vborushok
+ 09.09.2015 ,227,None,DON LUG MOL,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",Дергается. Необходим ремонт РРЛ,obilous
+ 04.09.2015 ,827,None,DON ALC AVT,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Lihman Vladimir, Yurchenko Alexander",Peregrev,ekovalenko
+ 31.08.2015 ,297,None,DON STA INT,None,LUG,14:35,ForestGreen,14:35,ForestGreen,None,ForestGreen,"Kornienko Aleksey, Gubskiy Alexandr",None,mpetrenko
+ 26.08.2015 ,17,None,DON DON SDT,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,Перегрев. Выход из строя кондиционера fuj24. Дуе горячим.,vborushok
+ 22.08.2015 ,177,None,DON DON GAI,None,DON,13:10,yellow,13:10,yellow,None,yellow,Lutov Andrey,"340d po zhare, periodicheski",ezhabenko
+ 17.08.2015 ,343,None,ODE ARH SLO,4,GEN,17:14,ForestGreen,17:14,ForestGreen,None,ForestGreen,Mizhura Yuri,None,demaksymenko
+ 15.08.2015 ,47,None,DON DON RZL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,Перегрев. Fujitsu не справляется. Mitshibishi не холодит. Оставили дверь открытой.,vborushok
+ 11.08.2015 ,457,None,DON ALC PTU,None,LUG,10:50,yellow,10:50,yellow,None,yellow,"Kornienko Aleksey, Kiriluk Sergey",None,mpetrenko
+ 09.08.2015 ,137,None,DON GOR AM1,None,DON,03:31,ForestGreen,03:31,ForestGreen,None,ForestGreen,Gvozd Andrey,None,mpetrenko
+ 28.07.2015 ,587,None,DON M21 PAN,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,temp,ezhabenko
+ 27.07.2015 ,457,None,DON ALC DKB,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Yurchenko Alexander",None,ezhabenko
+ 24.07.2015 ,547,None,DON LUG SHE,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",Требуется замена RAU2 38/14,vborushok
+ 23.07.2015 ,27,None,DON LUG OGA,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubarev Mihail, Kornienko Aleksey","D240, D230. Перегрев",ivolvach
+ 20.07.2015 ,237,None,DON DON DKU,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,None,ezhabenko
+ 16.07.2015 ,317,None,DON HAN GSM,None,DON,09:00,ForestGreen,09:00,ForestGreen,None,ForestGreen,Onishchenko Sergiy,Выход из строя кондиционера.,vborushok
+ 11.07.2015 ,807,None,DON KIR SHA,None,DON,12:35,ForestGreen,12:35,ForestGreen,None,ForestGreen,Didenko Daniil,Выход из строя кондиционера. ,vborushok
+ 28.06.2015 ,747,None,DON KMI AGR,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,Низкие уровни в пролете на MAR VOS. Необходима замена радиоблока на KMI AGR. Зона разграничения.,vborushok
+ 25.06.2015 ,437,None,DON GOR AZS,None,DON,15:46,ForestGreen,15:46,ForestGreen,None,ForestGreen,Lutov Andrey,ТП обесточено. Территория где расположено ТП закрыта. Доступа нет.,vborushok
+ 17.06.2015 ,27,None,DON LUG SLA,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",обесточен арендодателем ,vborushok
+ 11.06.2015 ,447,None,DON M21 ENA,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,"CDMA 696, Перегрев. Daikin60(под окном) не включается. Daikin invertor слабо холодит. Окно открыли в виде форточки для проветривания.. Требуется замена платы TFU на CDMA",vborushok
+ 08.06.2015 ,787,None,DON LUG RUD,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,"Gubskiy Alexandr, Yurchenko Alexander",Отсутствует эл. питание,vborushok
+ 28.05.2015 ,697,None,DON LUG ZAM,None,LUG,22:47,ForestGreen,22:47,ForestGreen,None,ForestGreen,Gubskiy Alexandr,peregrev,vborushok
+ 26.05.2015 ,437,None,DON GOR AZS,None,DON,20:54,ForestGreen,20:54,ForestGreen,None,ForestGreen,Gvozd Andrey,ТП обесточено. Территория где расположено ТП закрыта. Доступа нет,vborushok
+ 22.05.2015 ,317,None,DON MAK KLS,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kolesnikov Konstantin,сбой блока ODU ,urikov
+ 06.05.2015 ,547,None,DON LUG MED,None,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lihman Vladimir,"217 CDMA, перегрев",vborushok
+ 05.05.2015 ,207,None,DON M21 UGL,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,"vswr, Перебит кабель питания. Повреждение АФУ осколками",vborushok
+ 21.04.2015 ,717,None,DON MAK KIR,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lutov Andrey,"+ CDMA 748, Вандальные действия хищение фидеров, короткое в фидере RRL.",vborushok
+ 14.04.2015 ,807,None,DON KIR SHA,None,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gvozd Andrey,vswr,ezhabenko
+ 25.03.2015 ,137,None,DON GOR GMZ,1,DON,08:11,ForestGreen,08:11,ForestGreen,None,ForestGreen,Buklanov Aleksey,MUX,KGrygor
+ 24.03.2015 ,227,None,DON LUG 50L,2,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubskiy Alexandr,ОТСУТСВУЕТ ЭЛ.ПИТАНИЕ,vborushok
+ 24.03.2015 ,547,None,DON LUG WAU,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubskiy Alexandr,Отсутствует эл. питание,vborushok
+ 23.03.2015 ,237,None,DON DON PUB,2,DON,18:26,ForestGreen,18:26,ForestGreen,None,ForestGreen,Lutov Andrey,tolko Dind.,mpetrenko
+ 23.03.2015 ,27,None,DON LUG GEO,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,ЧАСТИЧНО РАЗРУШЕН И ОБЕСТОЧЕН АРЕНДОДАТЕЛЕМ,vborushok
+ 19.03.2015 ,177,None,DON DON TTU,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,Демонтирована в связи с ремонтом трубы котельной.,vborushok
+ 17.03.2015 ,147,None,DON LUG VNU,1,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubarev Mihail,"CDMA 222, Saturn OK",snikiforov
+ 15.03.2015 ,337,None,DON GOR HVN,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,из-за ENA AZS,urikov
+ 02.03.2015 ,507,None,DON BRN BRN,5,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,Отсутствует питание,vborushok
+ 17.02.2015 ,127,None,DON MRN MLD,5,MAR,19:22,ForestGreen,19:22,ForestGreen,None,ForestGreen,Kicinenko Evgeny,ТП повреждено взрывом и разграблено,vborushok
+ 14.02.2015 ,417,None,DON DON K25,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Onishchenko Sergiy,"+ CDMA 736, Сайт разбомбили полностью. ",vborushok
+ 23.01.2015 ,207,None,DON DEB MAG,5,DON,06:04,ForestGreen,06:04,ForestGreen,None,ForestGreen,Gvozd Andrey,DEB M21 <> DEB MAG FH. Нет пролета. Необходимо восстановление фидера RRL на DEB_M21 и осмотр сайта.,vborushok
+ 23.01.2015 ,207,None,DON DEB OKT,4,DON,02:11,ForestGreen,02:11,ForestGreen,None,ForestGreen,Didenko Daniil,Прямое попадание в контейнер.,vborushok
+ 18.01.2015 ,137,None,DON GOR GRK,5,DON,08:00,ForestGreen,08:00,ForestGreen,None,ForestGreen,Lutov Andrey,GOR GMZ <> GOR GRK FH. Доступа по RRL нет,vborushok
+ 11.01.2015 ,337,None,DON GOR ART,4,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,линия фронта. Авторынок разбомблен.,vborushok
+ 10.01.2015 ,57,None,DON JAS KRN,5,DON,16:58,ForestGreen,16:58,ForestGreen,None,ForestGreen,Gvozd Andrey,нет доступа,vborushok
+ 05.12.2014 ,417,None,DON DON LIV,2,DON,14:24,ForestGreen,14:24,ForestGreen,None,ForestGreen,Didenko Daniil,Доступ на сайт отсутствует ,vborushok
+ 25.11.2014 ,417,None,DON DON BLL,5,DON,08:21,ForestGreen,08:21,ForestGreen,None,ForestGreen,Didenko Daniil,"Магазин закрыт, доступа на сайт нет",vborushok
+ 11.11.2014 ,727,None,DON STL NIK,5,LUG,14:36,ForestGreen,14:36,ForestGreen,None,ForestGreen,Lihman Vladimir,Повреждены ЛЭП (из-за боевых действий.),vborushok
+ 31.10.2014 ,27,None,DON LUG TIP,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Kiriluk Sergey,None,alkuzmenko
+ 21.10.2014 ,907,None,DON DON KSR,3,DON,04:25,ForestGreen,04:25,ForestGreen,None,ForestGreen,Bogma Vlad,+ DON_PLH   Завод занят ДНР. Доступа нет,vborushok
+ 08.10.2014 ,207,None,DON DEB TOW,3,DON,14:44,ForestGreen,14:44,ForestGreen,None,ForestGreen,Bogma Vlad,"+ DEB BUL, DEB RNK   Прямое попадание в контейнер",vborushok
+ 25.09.2014 ,327,None,DON SVE NVB,4,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Lihman Vladimir,Разграблено ТП,opoznikharenko
+ 22.09.2014 ,77,None,DON KUR TOW,1,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Reshetnik Sergey,виведена з експлуатації,opoznikharenko
+ 27.08.2014 ,177,None,DON DON GDC,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Faiden Oleg,сгорела после пожара,mpetrenko
+ 17.08.2014 ,637,None,DON DON UAR,1,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Faiden Oleg,MUX,KGrygor
+ 12.08.2014 ,57,None,DON JAS YAK,5,DON,15:07,ForestGreen,15:07,ForestGreen,None,ForestGreen,Onishchenko Sergiy,"В/В сеть восстановили. Питание в ТП подано. (В результате боевых действий, разрушено ТП высоковольтные и низковольтные сети.Сайт разворован",vborushok
+ 04.08.2014 ,907,200,DON DON KAR,3,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Didenko Daniil,Территория з-да обесточена. Доступ на завод невозможен. Связь с персоналом отсутстует. за ним KRC_MRN,vborushok
+ 28.07.2014 ,227,None,DON LUG GRA,3,LUG,10:23,ForestGreen,10:23,ForestGreen,None,ForestGreen,Garbuz Alexey,+CDMA 221,schirkin
+ 22.07.2014 ,497,None,DON LUG MUZ,1,LUG,None,ForestGreen,None,ForestGreen,None,ForestGreen,Gubskiy Alexandr,VSWR HIGH + нет питания,urikov
+ 20.07.2014 ,37,None,DON DON EXP,2,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Litvinov Anton,RACK:door open->F.l.,mpetrenko
+ 27.05.2014 ,637,None,DON DON ERS,5,DON,None,ForestGreen,None,ForestGreen,None,ForestGreen,Buklanov Aleksey,+CDMA 742,vborushok
+ 28.03.2014 ,247,None,DON DOK IND,5,DON,07:44,ForestGreen,07:44,ForestGreen,None,ForestGreen,Ignatov Daniil,arendodatel otkluchen za neuplatu,alkuzmenko

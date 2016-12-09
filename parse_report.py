@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import csv
 import requests
 from bs4 import BeautifulSoup
@@ -34,7 +35,7 @@ def get_report():	# логинимся как КА блеа... хедерами 
 		'javax.faces.ViewState' : javax_faces_ViewState
 	}
 	r = requests.post(BASE_URL, headers = local_headers, data = data_r)  #борода которая логинится и получает все записи в репорте, ваще все во влкадке олл
-	return str(r.content)
+	return str(r.content.decode('utf-8'))
 
 def parse(html):	# парсим обьект(текст бинанар хтмл), пихаем этот хлам в словарь
 	soup = BeautifulSoup(html)
@@ -62,14 +63,10 @@ def parse(html):	# парсим обьект(текст бинанар хтмл)
 			'up' : str(cols[11].string),
 			'up_color' : (str(cols[10].span.get('style'))).split(':')[-1],
 			'resposible' : str(cols[-6].text),
-			'add_info' : str(cols[-2].string),
+			'add_info' : str(cols[-2].string).replace('\r\n', ' '),
 			'updated' : str(cols[-1].string)
 		})
 	return report_table
-
-# x = parse(get_report())
-# print(x[1], '\n\n\n')
-# print(x[2])
 
 def save_csv(report_table, path):
 	with open(path, 'w') as csvfile:
@@ -86,6 +83,6 @@ report_f = get_report()
 project.extend(parse(report_f))
 save_csv(project, 'report.csv')
 
-# f = open('bs_dict.txt', 'w')		#в файл запихиваем 
+# f = open('bs_dict.txt', 'w')		#в файл запихую допилю дома
 # f.write(report_f)
 # f.close()
