@@ -76,7 +76,7 @@ def save_csv(report_table, path):
 
 		for rows in report_table:
 			writer.writerow((rows['date'], rows['bsc'], rows['bcf'], rows['site'], rows['pr_bs'], rows['mc'], rows['akb'], \
-				rows['akb_color'], rows['down'], rows['down_color'], rows['up'], rows['up_color'], rows['resposible'], rows['updated']))
+				rows['akb_color'], rows['down'], rows['down_color'], rows['up'], rows['up_color'], rows['resposible'], rows['updated'])) #хлам сейвим в ЦСВ, возможно буду пихать базу(еще не решено, покурить)
 
 project = []
 report_f = get_report()
